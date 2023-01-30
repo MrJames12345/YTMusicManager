@@ -1,4 +1,6 @@
-from .. import utils;
+import sys
+sys.path.append('../')
+import utils;
 import time;
 
 
