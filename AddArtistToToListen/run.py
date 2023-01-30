@@ -2,7 +2,6 @@ import sys
 sys.path.append('../')
 import utils
 import time
-import urllib.request
 
 
 # User Input
