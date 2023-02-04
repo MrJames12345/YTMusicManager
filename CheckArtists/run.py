@@ -65,11 +65,6 @@ for playlistBrief in playlistsBrief:
 print(f"\nArtists to check: {len(artistsToCheck)}")
 print("\n\n= = = = = = = = = = =\n")
 
-f = open(f"TEMPAROO.txt", 'w')
-for record in artistsToCheck:
-    f.write(record + "\n")
-f.close()
-
 # Setup albums and singles list to add to #ToListen
 albumsSinglesIdList = []
 # Setup new artists list to save at end
@@ -187,7 +182,7 @@ for artistId in artistsToCheck:
         singleText = "" if len(singles) == 0 else singles[0]['browseId']
         updatedArtists.append(artist['name'] + "|--|" + artistId + "|--|" + albumText + "|--|" + singleText)
 
-    except Error:
+    except:
         print("Error occured. Skipping this artist.")
 
 
@@ -231,7 +226,7 @@ if (len(totalNewSinglesAlbums) > 0):
 
 
 # Update 'artists.txt'
-f = open('data.txt', 'w')
+f = open('data.txt', 'w', encoding='utf-8')
 for artist in updatedArtists:
     f.write(artist + "\n")
 f.close()
