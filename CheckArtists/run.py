@@ -73,12 +73,14 @@ updatedArtists = []
 # Setup totals to display at end
 totalNewArtists = []
 totalNewSinglesAlbums = []
+totalArtistErrors = []
 
 # For each artist
 for artistId in artistsToCheck:
 
     try:
         # Reset
+        artist = None
         artistLastChecked = None
         artistElements = None
         artistName = None
@@ -183,9 +185,19 @@ for artistId in artistsToCheck:
         updatedArtists.append(artist['name'] + "|--|" + artistId + "|--|" + albumText + "|--|" + singleText)
 
     except:
+        errorArtist = "" if artist is None else f", {artist['name']}"
+        totalArtistErrors.append(f"{artistId}{errorArtist}")
         print("Error occured. Skipping this artist.")
 
 
+# Print errors
+print("\n\n= = = = = = = = = = =\n\n")
+if (len(totalArtistErrors) > 0):
+    print("Errors with artists:\n")
+    for error in totalArtistErrors:
+        print("     " + error)
+else:
+    print("No errors.")
 # Print final new artists
 print("\n\n= = = = = = = = = = =\n\n")
 if (len(totalNewArtists) > 0):
