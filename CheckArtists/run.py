@@ -33,12 +33,12 @@ playlistsToAddFrom = [
 ]
 
 # Get last checked data and backup
-with open('data.txt') as f:
+with open('data.txt', encoding='utf-8') as f:
     lastCheckedList = f.read().splitlines()
 i = 0
 while os.path.exists(f"backups/data_backup_{i}.txt"):
     i += 1
-f = open(f"backups/data_backup_{i}.txt", 'w')
+f = open(f"backups/data_backup_{i}.txt", 'w', encoding='utf-8')
 for record in lastCheckedList:
     f.write(record + "\n")
 f.close()

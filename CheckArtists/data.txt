@@ -18,7 +18,7 @@ Quintino|--|UCGI2Kf89GZr2RlSBxezAFmA|--|MPREb_JSTMi3tR1Aw|--|MPREb_DaEQYCjWwMU
 Rich Edwards|--|UCrErrV3m3bJ46EPViRSlIhA|--||--|MPREb_iSb5ujbgekY
 Sick Individuals|--|UCgTVrMHdXZuLO9rFHvZEhvg|--|MPREb_reuhtCyKpxj|--|MPREb_b4GMF2eTWMK
 Virtual Riot|--|UChaTW5D4G0a5XDeW2mn3ExA|--|MPREb_TmyGy3cT5RE|--|MPREb_X997sG840f5
-Ferry Corsten|--|UC53Zmeku4tigP7KwAHxWX8A|--|MPREb_P7Z0mARXcSr|--|MPREb_4a8NrCBl7Jf
+Ferry Corsten|--|UC53Zmeku4tigP7KwAHxWX8A|--|MPREb_MuCjerBreJw|--|MPREb_4a8NrCBl7Jf
 LZRD|--|UC4f_f6qgEEySIXMSNAy16WQ|--||--|MPREb_XrzCqUkGXt7
 Spirix|--|UCQJJLYHmUN0gUuwDm3bpWJQ|--||--|MPREb_IrOYmISVguF
 Smallpools|--|UCdiPC0Pfc_MVrPEqroRWL6g|--|MPREb_ULUiEhv5vHP|--|MPREb_53Qr7mzx0pz
@@ -31,7 +31,7 @@ Anna Of The North|--|UC7v8FmgoKhIHnETb9IRGLVg|--|MPREb_rNG3JQshgl0|--|MPREb_idpO
 Bebe Rexha|--|UChwSjx8SnvG6k96a9xqYw1g|--|MPREb_MxwvBFhYB0M|--|MPREb_3mbW7AjLEHQ
 The Colourist|--|UC12infyRIeiN3_vPCUnzMSQ|--|MPREb_WgSHWKUuyUO|--|MPREb_6H9yxF8nkvV
 Life of Dillon|--|UCCvuAoBkkDnbNGjZm11tQ2A|--|MPREb_h38YnFfAK9V|--|MPREb_hWntaKq8PdE
-Jos� Gonz�lez|--|UCVKb7VKgr2i5X5cFZCF2gig|--|MPREb_fB70UndUnMw|--|MPREb_IYWCU6eYupG
+José González|--|UCVKb7VKgr2i5X5cFZCF2gig|--|MPREb_fB70UndUnMw|--|MPREb_IYWCU6eYupG
 Duologue|--|UCRj2THXwCY7vY7b2ZVdexXQ|--|MPREb_KSHN2GjALBl|--|MPREb_rHb1qvlzbQK
 Ayah Marar|--|UCvonccX_rvTnOnYptInNsMg|--||--|MPREb_AiaSnMUz9Ho
 Rave Radio|--|UCdZtqW2S6wrwY6ERk-3bzAA|--|MPREb_DyKTepGafib|--|MPREb_gd5iHiVGvms
@@ -110,6 +110,99 @@ I See Stars|--|UCI_XHuu_fd-ur9C3bSVQzGA|--|MPREb_bBancStIDUS|--|MPREb_aAEjnYocXQ
 Rain City Drive|--|UCi1ZJRozZGVFzTfGL3e7bRQ|--|MPREb_HtKWcfFQ67J|--|MPREb_W3oA28etsk4
 ONE OK ROCK|--|UCYXU4IweiEiwKHzTcaKRAzw|--|MPREb_gOqIp5haJbN|--|MPREb_Xl35By1SMv1
 Blind Channel|--|UCOygAuVrmwbYSKVnAOTAUmw|--|MPREb_OMMnMQrGHrL|--|MPREb_tr1cfyn3583
+Juno Dreams|--|UCXz9rJpJiAh_QwuXqGCXMXw|--|MPREb_QLN3pCaBfL3|--|MPREb_bSSBj843ogD
+DJ Ten|--|UCN86lj4OuK85ci2-K_ho24w|--|MPREb_oBVKMtZWORH|--|MPREb_HLWdFm7begf
+DJ Ten & By An Ion|--|UCBDVPEmyh03sZ10ATtnMd-g|--||--|MPREb_B7CHZqvBO6r
+Crozet|--|UCoP2EHN31I23OyYFgfvQV4w|--|MPREb_DA7CMA0xTme|--|
+Miami Nights 1984|--|UCKWIsqgaGdcEBtFjtZ6JUiA|--|MPREb_CHevnBtjTO3|--|MPREb_6Y7bwPU2vgE
+FM Attack|--|UCe2cMRyYL2IEELbX_oT195w|--|MPREb_UaBPlXBdfZE|--|MPREb_qhIswF8XQPn
+Betamaxx|--|UCJZgGQL7HczBAYB6YpZQlpA|--|MPREb_PIEwWeJAWIP|--|MPREb_uuQwdRLfEEY
+Vandal Moon|--|UCmegAguR54YZvFclVGbJcNQ|--|MPREb_JPgCB6KofB4|--|MPREb_fyUXbWT6mlQ
+Makeup And Vanity Set|--|UC-ej70eCA0QANdQjs_CI7iA|--||--|MPREb_fb4EMMbI7yr
+Ilan Bluestone|--|UCCaQrZTqaBZ0ZtuEmNPsfsQ|--|MPREb_ShxD0kD8s35|--|MPREb_FfZoM1CcH6D
+Ollie Wride|--|UCTtIlIwSjXGN2ctQcnpn8yg|--|MPREb_hvLpm7jdjIi|--|MPREb_jGAFxbxsdnU
+Electric Youth|--|UCUx2r0Xost3CPXrVq3P5z7A|--|MPREb_rf6zD75MY6I|--|MPREb_2Y17KkfnFEw
+The Chain Gang of 1974|--|UCaO_dVMlUWJ3P7_zrnqdRRg|--|MPREb_36vU51YlBuK|--|MPREb_Z9HNjaZ5zYm
+Øneheart|--|UCauF-wg16i1xhWIoJONstBw|--|MPREb_E9AFyfFxZOt|--|MPREb_yjimaNz1LqT
+Wile-E|--|UCGWc6aSpl8KcCiSUsHxghQQ|--||--|MPREb_WuoU8Ve5jsq
+Wilee|--|UCdMdjTtnnYvJF_zt0bBj63g|--||--|MPREb_QQfWWgqfxzT
+Kim|--|UCOrWRirKeqxMzEZOH3WsKFg|--||--|MPREb_4aglzB8YDEC
+reidenshi|--|UCvueFMrZ36uI4hb8BcIM_WQ|--||--|MPREb_N6G8RSduFar
+GUNSHIP|--|UCQr3Q0ixJWZB3s3K-Y1fgRw|--|MPREb_aLbCbslBYK9|--|MPREb_7mRr89EnmlO
+Sia|--|UCaPIRYCKs51kvD4jrbwMH1w|--|MPREb_0EbOI295sk4|--|MPREb_LsPueApAhan
+David Guetta|--|UCh-4c1ZoBPNP1C8c-7iVvUQ|--|MPREb_h0rxgdAjaOj|--|MPREb_3mbW7AjLEHQ
+Hurtwave|--|UCCff8Wk32CzfnazWOfMe8cA|--|MPREb_QT6eMUEysOM|--|MPREb_xIWm65x6aIk
+Extra Terra|--|UCCkOmYozJ6hv-n2Sg3Z9oOA|--|MPREb_qVvSe0iqHx2|--|MPREb_KNN4TL5w3yj
+The Chainsmokers|--|UCQgUHOPJJrmzCjExg-ISupA|--|MPREb_AKR17rzwhg6|--|MPREb_2OHYklUYw7B
+Maverick|--|UCVGfvd-Ixsu_EZ3ci0Mf8Jg|--|MPREb_qVUzN41S1vX|--|MPREb_FW22bY0wms8
+Mallrat|--|UCwNYFqyl1QWtNJv9CLvwDZw|--|MPREb_XIo1mQwRqes|--|MPREb_cASqFlScrmJ
+The Knocks|--|UCykKxVGTgKUm3L4vWqrO6eQ|--|MPREb_XsL6g62KP1S|--|MPREb_0Qbcdb0ZWFS
+Turbo Knight|--|UC9etLYjr9AhBCtlZbFuL4sQ|--|MPREb_HTW0hVIXw9s|--|MPREb_HZSNWmO2A9m
+ARTY|--|UCRQ_TyUQ_gfGxpEMpTNgCnQ|--|MPREb_65SUdjUs7u9|--|MPREb_W3MkSZ0nBNv
+W O L F C L U B|--|UCt1XzuTdfAv8Lbx5YRovcZQ|--|MPREb_KbUABjnB2fp|--|MPREb_yUMM9aaJzzU
+Let Em Riot|--|UCsnFU-XrD6uIn3q6Rvs77dQ|--|MPREb_6PSic6oTXbU|--|MPREb_nwfFckN9XIL
+Mareux|--|UC14YfHJCc8hq15WnZ7_oCHA|--|MPREb_cFj5paJWDqx|--|MPREb_LGH1zz9yWk4
+Savoy|--|UC-D16tLpa9yVctv7iL3Yaxg|--|MPREb_zHGQj51DwkR|--|MPREb_NdQn3ZZhtWl
+Sunglasses Kid|--|UCIrOZo0i0PhR4X-DW8fp3BA|--|MPREb_V6zT1NNjcty|--|MPREb_m2URzEKofPv
+Breathe Carolina|--|UC6JOXqJ5lyW78-xiqhI4lhA|--|MPREb_XwU52aux5s6|--|MPREb_HYwUEf7biw9
+199X|--|UCU_DmqG5KbsZL9DkbOviFqQ|--||--|MPREb_0oQ0rhTAD5N
+Portwave|--|UCpOrC2F6a6SswsBxGT0bJaA|--|MPREb_iH4doVFyRRK|--|MPREb_aaGfXP92797
+Magic Sword|--|UCnl2TnNDgp2rUepf5VnXJ1g|--|MPREb_yECqaJa7u54|--|MPREb_O9LYQ93mrCa
+J+1|--|UCELWAX8YdtS8Xa0RHUO_m7A|--||--|MPREb_jdSC4LSmmax
+Voyage|--|UC3riVd2BBvUFKwhkp1kl-zw|--||--|MPREb_RqhbKoPJeSt
+Kalax|--|UCEwg4JDZJEkST4oiiFv_nrg|--|MPREb_2u6eAByPlQZ|--|MPREb_mmiWbsgJ67b
+FM-84|--|UC9jWC3VlwuV7JfDfsIerPXA|--|MPREb_igWOjqb9dZ6|--|MPREb_iDOG398n43L
+Volkor X|--|UCpzx9dNS8B0y18dM4aqYxTg|--|MPREb_7uUykP4PD6F|--|MPREb_NTth0AYpl4u
+Von Kaiser|--|UCdaCvvsBAsz2uOF3K_NEERg|--|MPREb_ELo2Z1gkuR9|--|MPREb_n0qQeThYsOr
+Unfound|--|UCGXgwrwFr6jvsqYTa7ixnsg|--|MPREb_rAyzdQbaFE8|--|MPREb_J7MYXJIFOgx
+A.L.I.S.O.N|--|UC5U88LTClE2DqjArqrYQg7w|--|MPREb_VhfSNkKOq7I|--|MPREb_wbdkPR5roZ0
+Krosia|--|UCNVPEncb-OZ3JllO8SQDyrQ|--|MPREb_DyDMrXLVylC|--|MPREb_DdlM2YGX6EB
+Mattie Maguire|--|UCuu3tY8qJyormoG0KZjaxfg|--|MPREb_OIhkA9MF7bL|--|
+Lincoln Jesser|--|UCBfQrJjTBORPDyonUeaYseg|--|MPREb_NM0qWYMmHbT|--|MPREb_soEd8pZqsKB
+Korine|--|UCBnF_mYw7xZpeW4c1K8JNpQ|--|MPREb_rqx8uw2fL5t|--|MPREb_EWDS2MAmcfM
+ØM-53|--|UCH1B1Lr0cJn_VFrEc84X2DQ|--|MPREb_AqBTNFR0dxJ|--|MPREb_WWlGTgDQgew
+The Bad Dreamers|--|UCC67kvNfGskuG8BR6rgmeBQ|--|MPREb_58hKYt695qy|--|MPREb_BGnp5UgJJ2E
+Skeler|--|UCu4zUOwY7Wxns3Fyt_Mrc1w|--||--|MPREb_aieZN0KMoFh
+Personality|--|UCuZhINau0flwyq_Jq3LABkQ|--||--|MPREb_KIGHdAU11uk
+Mr.Kitty|--|UCziPGxuF18eyhJUlDLjrKqw|--|MPREb_QCxAF6vOJEx|--|MPREb_XuRhPsi282C
+Kavinsky|--|UC3V5kzHK2r4rbbXlf4OpFmw|--|MPREb_HEZJiqZwUXe|--|MPREb_eI6AQtyk4yo
+JACSIN|--|UCgy4C08BjV3VKTLujocWr8w|--|MPREb_gFHIUKXgZbj|--|MPREb_CpFpwitNi9n
+Home|--|UCfWnoT0YX8RfjFaXmg2Eq5g|--|MPREb_WNUnMMHKaGz|--|
+The Midnight|--|UCkhnqwH8DtT0Ap3A-mi_GJQ|--|MPREb_YB2fZo1HhhF|--|MPREb_poRZPQwQSYb
+Trevor Something|--|UC833__IIxnI8u737Y1V6a5g|--|MPREb_4JAPGLoQUfK|--|MPREb_tcOubUlTWWl
+Timecop1983|--|UCVjNyglpxEwPoB65b0Oc4Ew|--|MPREb_iPeWAcYox8Q|--|MPREb_G3SxInFgTEK
+Fury Weekend|--|UCIj0rUEXT2rveXP9f6vVLDQ|--|MPREb_8y5NiM5QU3r|--|MPREb_0lizqaY4kzl
+PYLOT|--|UCCL1yiGWNyenZgN9MS2MksA|--|MPREb_HbPDjnHoTgH|--|MPREb_9qqhQ8Z0B6M
+LeBrock|--|UCXHJh6uDzM0czUtx-Wu3kcA|--|MPREb_xndc0Lq2cLX|--|MPREb_wlBlRSpJfEf
+Skjalg A. Skagen|--|UCq0Od9j32863P0VEsiT5RJg|--||--|MPREb_xJCc60jLr6X
+Backfrom84|--|UCRDT6Tdsq-RFmm3t05kuP_Q|--|MPREb_ywrXKfsD9Uo|--|MPREb_gK4T3klglgO
+Maltex|--|UCv9_kG2jLreLzsPcmpGbiVg|--||--|MPREb_L6yNoENWLaM
+Zeitfall|--|UC02030ilopkUUixauvNUyDg|--||--|MPREb_g1SRHpebOZi
+Nectry|--|UCwUnKtdngzXuE4hCAHYFQkA|--|MPREb_HkU6mQTv3AY|--|MPREb_GmKRkFoBMG5
+Tokyomane|--|UCqEEDdZ0HVqwfo47lbd2NGQ|--||--|MPREb_OrjvFIRb2r9
+Habentub|--|UCuPh6xlyX0Z2Jjl9uAKyQwQ|--||--|MPREb_VxdaHL6nvq1
+ETHIEL|--|UCUMlfI2r8w2Rj4kMREIfcJw|--||--|MPREb_3konSvuCvPT
+hiræth|--|UCSw3vljgYTACsFGvv-0nBHA|--|MPREb_9Kq2lfv3g5n|--|MPREb_PRwaMBQxVbr
+Killigrew|--|UCL5HyHnSPeXZMJjh_m0JMxA|--|MPREb_pjNsFuusC5b|--|MPREb_LObvheoXM9J
+Faodail|--|UCQMKwaId3PnkPnYtBGsoUdw|--|MPREb_vBXTXgX6slz|--|MPREb_OkH3xOpK5dC
+Krisu|--|UCDOoZZx6cDRfAgnmyN3EVSA|--|MPREb_4AK7F8kPf2R|--|MPREb_l8Wlwe4QiT6
+Pensees|--|UCaZZzx2WJ62oTJ3kKyeSs-w|--|MPREb_LF46pDmGIHI|--|MPREb_m0fFQVUx0Gv
+METAHESH|--|UCKrbqdPY0rtT6DCKno5Aorw|--||--|MPREb_KhDyHKfpzaO
+Hazy|--|UCrKyQlvrRLW0r2u0-1A9Jmw|--|MPREb_rZrZr40COGr|--|MPREb_OPzYSVswvBF
+lost hope.|--|UCTO7Du28PXdZAyWHAk7lo8w|--||--|MPREb_zPL4UmC969o
+Piedkies|--|UCS6aYCrHhN1dfvw1ba3wN1Q|--||--|MPREb_n93W7KdGXY0
+Leiser|--|UCZawRP0r_vy7i9CYK7Qx0qA|--||--|MPREb_rluFDMoLLGJ
+mxpheebz|--|UCnz-bqN1c2T06kEWnXQNKzg|--||--|MPREb_BvtELkJHRwO
+Nuages|--|UCdSe0ATv1KmqnHZVmTnp20w|--|MPREb_gInFSzVeSUy|--|MPREb_trpOgiWHmKV
+「 error 」|--|UCLN66DjWFrQhwGdv0CS6lvg|--||--|MPREb_SjkDelaYhVq
+Instupendo|--|UCoUVBkYCDFSM7RgTFksKrkw|--|MPREb_w3ACK6PTOz6|--|MPREb_NGb5nO2UDss
+WEVLTH|--|UCvoNyNbD-syLRyvAhK81utg|--||--|MPREb_iAtlhiZ1wOp
+Karamel Kel|--|UC4MdaIyWZodArX73BEuuFRw|--||--|MPREb_LF8HqiDqSnV
+Ólafur Arnalds|--|UCDQlvsMEM5j0k5cqmfHBzVA|--|MPREb_hlT0lf8CC6c|--|MPREb_RHawWXYPSvn
+ashess|--|UCMkzslvAOSUk0PyszyXKb9w|--||--|MPREb_OEMv2xjqbEj
+tilekid|--|UCYUuaxrT3K86-85gNNPjlUw|--||--|MPREb_Vk6r5cpKEks
+Mathbonus|--|UCu4eDKMpHrAr77Ez7gItzWQ|--||--|MPREb_UVEOEHIo66R
+FutureVille|--|UCxFsUjK6r_3FIQ87Mel-cNA|--||--|MPREb_5eJiRoH2erc
 Swedish House Mafia|--|UCl5p1gD46TZVsoQmM8VZ2gQ|--|MPREb_JnMVyRDminG|--|MPREb_BjErnbeYfEF
 Calvin Harris|--|UCZ0Aezmtk-S2l8A9Ln-2lKw|--|MPREb_z2Tejxxpssx|--|MPREb_Un8xxtzOIIZ
 Dimitri Vegas & Like Mike|--|UCeNAGMwB7p3gxizQPsU9Cpw|--|MPREb_1At3Cx2olzp|--|MPREb_215erA3GUJr
@@ -117,3 +210,536 @@ Moguai|--|UCVBBZb-MokSYPWxvdzeJtPQ|--|MPREb_l0UeYb8qNHC|--|MPREb_pM4Ixvq2Og7
 Like Mike|--|UCPO2PVXqv7kg8FDSMDpWlng|--|MPREb_hCSwvXehQnr|--|MPREb_XLDbZiQedF3
 Alesso|--|UCyFLp2WBpLae_p0j73_lGLA|--|MPREb_26W1rpZKKOa|--|MPREb_OhQOM7p2jGY
 Florence + the Machine|--|UCkmCGbrGa7yNrRl_NHrOaTw|--|MPREb_bOgSi4gzOeN|--|MPREb_F0HY3giGERe
+Martin Solveig|--|UCjpkuMyaB3JuLFm2Vc851hw|--|MPREb_9hEL2yzk7ZT|--|MPREb_01hG5l1Wefc
+Alex Metric|--|UCVdedmpgUMGCKSFhEXmcOhw|--|MPREb_sxIfCA5RBik|--|MPREb_5Sxtck8EHsX
+Alex & Sierra|--|UCzc9WoOSvFPmpWWjh6Zdmvw|--|MPREb_1mW4ADKqhR9|--|MPREb_g2KT41GF1rj
+NEFFEX|--|UC281fR3Rg1O08xpxArdbdew|--|MPREb_IPmc67qdILn|--|MPREb_FrXZoGryNo4
+morgxn|--|UCHucrE0ZomKpFmkEMbHDhOQ|--|MPREb_QvUWxUCIQqm|--|MPREb_EVL471rEHTm
+Oh Wonder|--|UC3_kaldIP4G9nOBaE_u6e6Q|--|MPREb_TpKGBwAjEf2|--|MPREb_a7Le6DgTWDs
+MisterWives|--|UCeLIzs5iIP49RcCbYiltxbw|--|MPREb_98UekVJFrh8|--|MPREb_UiAC2FnNTiS
+Magic Man|--|UCHM-dhWZRHrzHkyUamKQY3Q|--|MPREb_kIoeWUTVFra|--|MPREb_yIjQ3Od4ODI
+The Heavy|--|UCbGFbVqBTN3aCjUwz3FChFw|--|MPREb_67Sm3Zgl4Xh|--|MPREb_AKyXq3aObJO
+The Gabe Dixon Band|--|UCKGdzEje0WW6EvfXyKMQ2ow|--|MPREb_XEDrP9F11B7|--|MPREb_GDYCsxLI2jN
+The 1975|--|UCNrTdctAV0JMT7RBQvpA5lw|--|MPREb_pbj5uO7V6do|--|MPREb_1T7dIQKqITr
+Tenacious D|--|UChThjXuCoIJlougReIFCV1Q|--|MPREb_GzfIqMvppqv|--|MPREb_hICnKN0zqoH
+Teddybears|--|UC5Qr6P58VuuD_f3lHJKL6yQ|--|MPREb_Tko3uxZ6pM2|--|MPREb_NZnzlBm5xch
+Saint Motel|--|UC7JlXAEJPpTUT6x1_E7ijrg|--|MPREb_xcDbHeOaN2W|--|MPREb_vKgu1WuCv9d
+Phoenix|--|UCAoGVyUtK3AHYwjJ0xDFbFw|--|MPREb_F1tW2260NKV|--|MPREb_gQ3bXpZRUCA
+Pete Murray|--|UCsn16J_QnvPIl6swIdexong|--|MPREb_6AxxYooHGQP|--|MPREb_UB1ZsxfDqEB
+Panic! At The Disco|--|UC5J__UU0Y7ZAVluolcIjrbw|--|MPREb_kJblK6lJDRZ|--|MPREb_PUceQVCoKF3
+Miami Horror|--|UCU8JQ8M5vIabM-rj1zKGPsA|--|MPREb_OAZSy8WclsN|--|MPREb_sz4jIVTbn7Y
+Matt and Kim|--|UC_TvrYhcdRfrDjNBWYILFxQ|--|MPREb_ueBDVqlGuHE|--|MPREb_xbD8VP7Lrss
+Matisyahu|--|UCAYBw-oeIcPiMVBLV23-tdg|--|MPREb_MCeFwzJR59t|--|MPREb_2KbhiomCLbs
+Marianas Trench|--|UCogfCgW00mfDUo43P8QjldA|--|MPREb_pvzsJwSRqe2|--|MPREb_ni2fve1oPqd
+Imagine Dragons|--|UC0aXrjVxG5pZr99v77wZdPQ|--|MPREb_UJl0KJAmhTa|--|MPREb_LhzMAA0GNMg
+Gryffin|--|UCO4t4bsN65024PXQUnENGkw|--|MPREb_PzFPUsaPFEt|--|MPREb_MfQj8xHlZ6s
+Bipolar Sunshine|--|UC-t1PnvR42CH_I_mV6cFszQ|--|MPREb_DrBz2dQ8AKz|--|MPREb_dmfuKTdprdL
+Gold Fields|--|UCd8SUiFa7HoewHDZiO0R-5g|--|MPREb_85MXc0sr7Hz|--|MPREb_RMRfdpFudbH
+Gary Glitter|--|UC0XkQvM0_OATZQpy8NoDFbw|--|MPREb_1LaIiiq6x0r|--|MPREb_PT1kSfA93y8
+FMLYBND|--|UCZpzAZIpaY8cgZui7p_dSMA|--|MPREb_26Uwt39NW0x|--|MPREb_SunIHEXR0wl
+Fenech-Soler|--|UC_SXxohtC6M-kgAkRhgwvdw|--|MPREb_p2XoAaJQlbf|--|MPREb_AHiqsHB8OTU
+Satellite Stories|--|UCQG-9EYBAdeJy7m9zd_bxNg|--|MPREb_9hcir3X52BK|--|MPREb_fQ8b2CfUqBX
+Kid Astray|--|UCo2jdiac8pFK2-Qqc9RlnXA|--|MPREb_qB7zP9V962Z|--|MPREb_krRW9owAqG3
+The Griswolds|--|UCJTelosbd6U2-In_rl3pPrA|--|MPREb_jmxouIkpXaH|--|MPREb_paXT0RGuN72
+COASTS|--|UCryU9HgbTNtmOq6kwg82FGw|--|MPREb_NubTSXTwokD|--|MPREb_9393ZHeGyPc
+Wild Cub|--|UC6ARCtTrW8Hs0SCy5iW4HGg|--|MPREb_IAdzAwbK4dm|--|MPREb_4OZKrF6J7G0
+The Mowgli’s|--|UCnJP89qgdM49vFxz91Vftwg|--|MPREb_QAJlEdDmOPi|--|MPREb_gnKTi1B0oeQ
+Two Door Cinema Club|--|UCNaAQtk0jVa2OXAEY0zF5zw|--|MPREb_vH0KX9ypTrA|--|MPREb_qoRdgkeEqqC
+Joywave|--|UCrBNz4Uz3JyTGuEJC61OAgw|--|MPREb_D533WH4Q52K|--|MPREb_qf0W2JVZ7K0
+Bloc Party|--|UC8WZEmES6UN3w_J2XQQVm-w|--|MPREb_X0TwDyWD5Wc|--|MPREb_knPgEU3fp7K
+blink-182|--|UCo23ROZAe-BZYHpzBu9630Q|--|MPREb_Ix2a1o6thfU|--|MPREb_nDkpQAx13Ad
+Billy Ocean|--|UC7yYP0Cq2zcwURQrklwkiPw|--|MPREb_DPB3TwHKOps|--|MPREb_MhoUIsXRFz4
+Sugarcult|--|UCR5buoFGeqjBNqFZ91QMZgQ|--|MPREb_2sE6pZMHqrb|--|MPREb_pGjv6wNHGqC
+Madcon|--|UCacBq_h1NhioQRebPrccIOw|--|MPREb_PjeSEYuTkFq|--|MPREb_ierpymWppQ4
+GIJIN|--|UCX6ipxVfSnzBeYxV1E4Arpw|--||--|MPREb_SmnMJnZtNQC
+Stephen|--|UC-pWHpBjdGG69N9mM2auIAA|--|MPREb_prKJ576zwE6|--|MPREb_jf4grW7g4CY
+Placebo|--|UCvRshWZ4-nOQ_pKrlLSCHxA|--|MPREb_ZVMiUGoLmXB|--|MPREb_Fz3RlURMR5o
+Steve Jablonsky|--|UCkfU7GtZtI4ud3DNq1hJi0g|--|MPREb_Tt6KXGYzVOd|--|MPREb_NWC2t1tVIfG
+Mason Ramsey|--|UCzgJcONsnrYVlnbdp9I3sCA|--|MPREb_UludH0LHx3k|--|MPREb_LKqWS4qctWL
+Mr Plenty|--|UCZfLJWqLJu7l0MdMMZoku7w|--||--|MPREb_EYPjnlThBjZ
+Avril Lavigne|--|UCdOp8DxiQw6hKZ9b2FY6hbg|--|MPREb_JQ4GJsgp6d9|--|MPREb_m30xtGfzrgk
+Chri$tian Gate$|--|UCp-pbNOdSZDsaGdav8qDiHg|--||--|MPREb_C57N86l96RH
+Robin Schulz|--|UCIpo9tfpIGXMzNQcZVWoXVw|--|MPREb_xrdpf8GvYQL|--|MPREb_AsZ5cFbauWd
+Jesse McCartney|--|UCYi_GJIgC1l-9Uuboe9Rqhg|--|MPREb_1awlYpd9R4J|--|MPREb_WJuP1YJL7Lb
+Enrique Iglesias|--|UCD-0qTYqRd4t9re9AwRydnQ|--|MPREb_8tDhmQBEnIg|--|MPREb_IV6hgx1CCnS
+Indila|--|UCWR_-sd1qBK7HtJTgw0Djkw|--|MPREb_t5mSkuCCUjr|--|MPREb_ktRVKMju5wA
+Newsboys|--|UCllKMo1HQpEX5h0Tz4upEsQ|--|MPREb_8dRmTlATKRh|--|MPREb_zcr2zAQjGon
+Band Of Horses|--|UCLEJF57HPNem3bdqXSiIo3Q|--|MPREb_KpUL7EvBx0T|--|MPREb_AYq5CH5wVhs
+Glenn Morrison|--|UC1Hq188EDKSZS00wPXQy0Wg|--|MPREb_3kwci2otP2a|--|MPREb_G7pstcfbsi4
+Scissor Sisters|--|UCOD_mG3_JiRqPnCnQdacOHQ|--|MPREb_QDGOYaW0uL9|--|MPREb_VmMKhtMOVns
+Altiyan Childs|--|UC9URBgg-yUjMtoferRwijIw|--|MPREb_dfbUU6lswZ8|--|MPREb_UnrJdx1Cfj3
+Bob Sinclar|--|UCTX702H0Fi2v-ukpTSYdhRA|--|MPREb_kEnd3S27CtH|--|MPREb_y14Opi8AE68
+Snoop Dogg|--|UC7xz_YipuZtypOuVALNzeog|--|MPREb_cBfqc6skvRe|--|MPREb_1CvlNizK67I
+Taylor Swift|--|UCPC0L1d253x-KuMNwa05TpA|--|MPREb_z0ABWl3jaT0|--|MPREb_8RY5luKkqfP
+Dan le Sac vs Scroobius Pip|--|UCN3inM7eEKtsol8hFyZOHIg|--|MPREb_WmQ3ecNrBOs|--|MPREb_zkJZAkv6vAg
+Mann|--|UCWICeuEMwsorxrWfcyd0gPw|--|MPREb_JrEL8ExB2lk|--|MPREb_AEOcqfEQ5np
+Voicians|--|UCdDomyLnQVmroaEZe32gSVg|--|MPREb_gaHewuVf2OB|--|MPREb_hkAb89RH3iJ
+Savage|--|UCyn_qA180n3xSsr0iOXWfsQ|--|MPREb_njvTdVixUEp|--|MPREb_kxE9S1Sb3js
+Dear Seattle|--|UCcNKOOWq9kppqs6TsPv25sQ|--|MPREb_6XygbsSXIa6|--|MPREb_TQ6CWwLALVn
+Max Bennett Kelly|--|UCXd1YaxgGZ7Z_AK89en3lKQ|--||--|MPREb_NxQ90CJFi7h
+Silverstein|--|UCTSUJBgP1F7vYNbI5Vr4CFg|--|MPREb_xAzXAHsJwPe|--|MPREb_IsXDAh34v39
+Didrick|--|UC4vqRXIAyb6a3RAyn26FDng|--||--|MPREb_rSRCKbk2EEh
+Wiz Khalifa|--|UC3QmG1Jn9cE5fTMt14DLuZw|--|MPREb_74fr1dI4do3|--|MPREb_crRK2MuRbIe
+Johnny Ruffo|--|UCRRuNW6rK3J4PuLohfhyGMw|--||--|MPREb_oeQpVekQg13
+Maroon 5|--|UCdFe4KkWwZ_twpo-UECR-Nw|--|MPREb_I0YkiySvAUt|--|MPREb_6MeEEvwZOtx
+Guy Sebastian|--|UClOLfsDUqdszb5zefiobOEg|--|MPREb_LC801Z910jR|--|MPREb_UN1tcbSmg3t
+Dizzee Rascal|--|UCGl5-H63jcdUPVL7g-4agAg|--|MPREb_sZ8mEap5Vjv|--|MPREb_dUBbkykxeRH
+The Dandy Warhols|--|UC49eSXGt7tBykoC_0_DfsQQ|--|MPREb_MAJbQPAqaYn|--|MPREb_kN49kkeXGsk
+OneRepublic|--|UCrrbm1toLPud8fFIisPuxpg|--|MPREb_lJGfSWz4wpF|--|MPREb_oxZ3emf0rnz
+Flooaw|--|UCPiiwhtPimDjhDFByPMXO3w|--|MPREb_fgIHCKszRaE|--|MPREb_LaiYga8KbH3
+Kenny Loggins|--|UCF-DjS6Y9CKZThQf01SYe7w|--|MPREb_fS2cIrLOW4I|--|MPREb_9P2KI6kgfZJ
+Ojivolta|--|UCziEivsOPQQ_yogqpxjnXdQ|--||--|MPREb_nP8VQdgN59R
+Post Malone|--|UCyD3XWRK9ko-izf2nBSFitw|--|MPREb_lqHTdpHwDao|--|MPREb_NBbzm2sqhdp
+The Lonely Island|--|UC4LMYsZmbRZOpHV8B-trVvQ|--|MPREb_2XgL2OcClE6|--|MPREb_nnZPURdXoav
+DVBBS|--|UCVu2fWXhyI51v-MBDHaHg3A|--|MPREb_Y2miPHb6SEu|--|MPREb_G3krZMLzmH0
+Lily Allen|--|UCKrQHxsP6Z3shDF1-QN0GCA|--|MPREb_y6AP2CvApck|--|MPREb_ZZzs2TLPUmA
+Keane|--|UCTE7TdLSp9K2GacePon_WGA|--|MPREb_1RAyuYD7WQk|--|MPREb_mS1eMxrjx0y
+League of Legends|--|UCNQmUMv2OIDAfgIa1-ih0hA|--|MPREb_veQ2HwQB0zD|--|MPREb_7xqmR3SUncL
+Mike Shinoda|--|UCjZCpUyBTuYRQhkYKZR_mdg|--|MPREb_Gsx4zYwYseu|--|MPREb_FEun8lIVBZA
+The Unauthorized Bash Brothers Experience|--|UCX7PZwD-fkcMlT6BoTVd8GQ|--|MPREb_2XgL2OcClE6|--|
+Joel Turner & the Modern Day Poets|--|UCYfkM4wyPNONaNq83RoHKfA|--|MPREb_LTvU7zXTdAG|--|
+Skizzy Mars|--|UCK23jjN855ptPIu5-VzSJDA|--|MPREb_uOL4omgVBt6|--|MPREb_mHVRcMvhZvA
+YelaWolf|--|UCfC99Jhl-edbKc7BU9UgfXw|--|MPREb_wqNchiJub1C|--|MPREb_j35AWmtIYQB
+Wheatus|--|UCxnxfzY2OWlxBdCRlUsR_1A|--|MPREb_j4LXFN8w4st|--|MPREb_bzkASkWqHqv
+The Rubens|--|UCpBXRJhUf1JalC1jAfJ-_zA|--|MPREb_q2HkBBXfK4S|--|MPREb_R6XFUUDgVB6
+Delta Goodrem|--|UCR5cuBNHX86pIwNEFwziGLw|--|MPREb_G1tnupQVy0N|--|MPREb_RX9eArnrQRs
+Beabadoobee|--|UCcGMuu89vageEKV8zUKhwdA|--|MPREb_ghaPuNpdEg3|--|MPREb_NP2JoluHC6a
+Niykee Heaton|--|UCGXWtLebxMOJ9KHQcIUzPUA|--|MPREb_Hxl5dB7Gbyx|--|MPREb_KPbvsQhlYHa
+James Arthur|--|UCNAbUat5xDtp6FeBphe2V_Q|--|MPREb_ODA369aY2dP|--|MPREb_y2CliC9Ul1D
+Outkast|--|UCpJG35xsNdMgxsXn7kqG4Ew|--|MPREb_CrPmepvxfiV|--|MPREb_uQABr161trF
+Gym Class Heroes|--|UC2E_VO4h28IAcipUCyFz7Fw|--|MPREb_D5pVsLthRYJ|--|MPREb_Nb9n0KcdrKh
+Fox Stevenson|--|UCA2lIZ36mxl35YT5lhRKZVQ|--|MPREb_MCgR441MWPm|--|MPREb_k8vjQoJF7oz
+Finger Eleven|--|UCOyW38qjTk06wjY-6qihZVQ|--|MPREb_U8mrsX5vCws|--|MPREb_DZ4Iyei7xCQ
+Faker|--|UCRLvW6ZYiozwaEM3T5Ra_jg|--|MPREb_PGVO6GpnIyo|--|MPREb_lcbf9fzqwJn
+Horrorshow|--|UCWffv4GAkeLxIie_zrQb0iQ|--|MPREb_g4hqvEGFf4Y|--|MPREb_O6RkPySY51B
+YUNGBLUD|--|UCMrCoizKiBxqeg5pTpBXn1A|--|MPREb_iab5zjEUJ1M|--|MPREb_qaEjfxUI3Pw
+Halsey|--|UC3BBS0-pODIeS8QGX_qtrCg|--|MPREb_f2tU1AlqoZC|--|MPREb_NbxT2EPEnuJ
+XXXTENTACION|--|UCnAcxgRZ065f_eXK1o85c1w|--|MPREb_sWbvnR7ivrq|--|MPREb_6UX9MP3kF8f
+We the Kings|--|UCkN_Ha_nR9mUV8OnXc3lcKA|--|MPREb_B5mkcq8KM0a|--|MPREb_pEDsgOoWuOc
+upsidedown|--|UCuuVLj_gIXAbBGaUjdHeWGw|--|MPREb_7GRFckKIgK9|--|MPREb_W5oPV5YzdV8
+U2|--|UCqIQRxCUGi7hyJisyzv9zYQ|--|MPREb_8OFJaGGIJRL|--|MPREb_Nl1Mmbrgljg
+Twisted Sister|--|UC8-GQfF2Xod92t8kiUe2ajA|--|MPREb_IucQmPBaWR6|--|MPREb_NHQLmsFrSxm
+Twin Twin|--|UC9PRWips_xfa9h4OFWQLdFA|--|MPREb_NwaLl7XD2kJ|--|MPREb_Ig3ajBw9tJd
+Twenty One Pilots|--|UCnX0L9QiftAcWdzeBx31xCw|--|MPREb_NPxhttzsagk|--|MPREb_FwDwbedEX7q
+Toploader|--|UCEspIekCimNPvtnt_pGKG3g|--|MPREb_BVKDvfo1lZA|--|MPREb_t55vytGrPN4
+Meter Mobb|--|UCcFVjKFgFhwv7T9kGw2pUyg|--|MPREb_aXySw082b5V|--|MPREb_dT9kEaW1Zpu
+Tom Rothrock with Jim Wise|--|UCprXS1oCELxLWMwch6lnp6g|--||--|
+The Verve|--|UCt2KxZpY5D__kapeQ8cauQw|--|MPREb_OmIwVYIRs7N|--|MPREb_ZgqiEkZGl2x
+The Rasmus|--|UCFvegymumxk7i2X3bS4WkzA|--|MPREb_w7e0V3I51sH|--|MPREb_8CUgdCr5L6C
+The Procussions|--|UC55-Ku0yJJV-YiZuZlDWGcw|--|MPREb_N11LR7o9TLd|--|
+The Magician|--|UCrD8gd5K9L2MTmT74W2kbUA|--|MPREb_fxr7RZtBwH2|--|MPREb_slQ5iBeZKPi
+The Calling|--|UCv4VDvPfbHv4zABeY6X4Dew|--|MPREb_shGqAmWOStL|--|MPREb_KTqVgJJOhWO
+T.I.|--|UCwwHxdscieNH0dzWmOwnuqw|--|MPREb_AUABc9g2gYF|--|MPREb_Yf1wSlfbTI7
+Stevie Nicks|--|UCfO0DvLW0NPwtLcxD6_nHEg|--|MPREb_VaOlAiD5m6e|--|MPREb_WuVtVwLjAZr
+Spin Doctors|--|UCBher5_IvSnvgbTpAKo7Iyg|--|MPREb_x7t3SNkICsn|--|MPREb_GdRvYtB7uqE
+Soulja Boy|--|UCv5qSI_VNdqa4VS10GLf0zA|--|MPREb_35nio5KBj8J|--|MPREb_al4xgfQ1Jhi
+Snow Patrol|--|UCqJPacofwGc9243bYPVyTcw|--|MPREb_dWxCykco88v|--|MPREb_4wgEldlulkp
+Sixpence None the Richer|--|UCF5h-i2ydo0wQBM9QoXCU9A|--|MPREb_dX9CteGbEgu|--|
+Simple Plan|--|UCKqSOWLnqdSAOQvoEwvrWWg|--|MPREb_esovwa6W7MU|--|MPREb_m1Wp6KQkoEk
+Silverchair|--|UCvt5tDpc8I4RoS6LQH0fKog|--|MPREb_Vr9hjxq70nL|--|MPREb_QBXEtQkBeUu
+Short Stack|--|UCoZDleM9dlCVayo0tLv-kWQ|--|MPREb_KKJZAnVLuno|--|MPREb_iwZFdjSw6lB
+Shannon Noll|--|UClRjpwwlQSpvHhWwtdrTmVg|--|MPREb_ABK7Jp1a0Gz|--|MPREb_Ds37edpjQ4Y
+Set It Off|--|UC1qq04rurZvz4DZuaFgq-HA|--|MPREb_LJvVsho5RlG|--|MPREb_VYIELCXpYOw
+Antoine Dodson|--|UCjwyKXJG1g9_JUak0zzAGdQ|--|MPREb_LMIaOFtgBvJ|--|MPREb_zGRtUu3jSz7
+The Gregory Brothers|--|UCld88L9UGfNMJVb1Y6bb1jQ|--|MPREb_36ECtDqnTtU|--|MPREb_AxoWBjWErj4
+Saving Abel|--|UCYRr5s9bEBOVyPNqPDBnJjQ|--|MPREb_QHGAWDoMyZQ|--|MPREb_XNXZC8b5AsC
+Sara Bareilles|--|UC37hiyVk7XSOY8EmnN_VmPQ|--|MPREb_6KLCCILFyV0|--|MPREb_FPk4RngVENe
+Sandovall|--|UCXwFlHkoEEAu3wpBoOkSITQ|--|MPREb_gucKgU9StU9|--|MPREb_0NmJeTkbEl6
+Santana|--|UCX0rR7x8-nLew2t8UH-n2aw|--|MPREb_5udE8kJIq9W|--|MPREb_7i4gtczQaup
+Sammy White|--|UCQvEgLcHiHVKBwkgYJpWEfg|--|MPREb_qB6wyzEXb1J|--|MPREb_JbrW1tKpwzr
+Rumors|--|UCxMK1EEnJB6M1sOiQy1MUvA|--||--|MPREb_BZtE5sPMFSX
+Royal Tailor|--|UCga9sQcTAbT0nM4_CE4DF6w|--|MPREb_GXpX1crUXMw|--|MPREb_xGY7NrYDbOg
+Rome|--|UCvS6LFmIMpxyp4qO2NzTuqA|--|MPREb_BlMLlJSnxXh|--|MPREb_ee0ORciCQoj
+Rockwell|--|UCsUjEuAbP8wAEz8tiB3dvNw|--|MPREb_lMTNO9vwDwy|--|MPREb_Dtm8LwzYDmL
+Robin Stjernberg|--|UCMDDJH2R8WNvqSEWDT_v1Bw|--|MPREb_Nu2o3SAhuiy|--|MPREb_ikataYZqzOX
+Push Baby|--|UCfIpe7I3EWoE7BX6OjiCeTA|--|MPREb_soEfR14hT8M|--|MPREb_PxW2Q2vcO4m
+Rick Ross|--|UCayETQO60tEaJ0ihqZYstRQ|--|MPREb_KOZ5nAGeu3i|--|MPREb_MTPlQBtl97p
+Rev Theory|--|UCEB8QJtS59YVmcT2EV6seMg|--|MPREb_QOXwj0OVbYW|--|MPREb_AKIdmFNoNaP
+Remy Zero|--|UCj_l2QnQH3pl_FikxkHhPnA|--|MPREb_WLLsIH4pr2g|--|
+Red Hot Chili Peppers|--|UCrSorX845CEWXzU4Z7BojjA|--|MPREb_atNpfRYgphc|--|MPREb_ARFUHjSbxX6
+Rationale|--|UCeD9pckAtu-oSbb_fQkGccg|--|MPREb_5Uw9y4QwHrO|--|MPREb_n3VjlBTrrFo
+Rascal Flatts|--|UCJR30XUkNA12XAUwG8Z4YeQ|--|MPREb_dQIKyGZcUgC|--|MPREb_SUdoSXF68yw
+Quinn XCII|--|UC0A2GKK4UdxtQTxpXYduHUg|--|MPREb_j2S2kyUzrDu|--|MPREb_JEXcrPSQjxF
+POWERS|--|UCZKfuOZMYhbgADoMbqWGmtQ|--|MPREb_UopmqI2pn5H|--|MPREb_WHhSVtxiGPg
+Plain White T's|--|UCy4q3Mhtp7l1e06PvtT1j2g|--|MPREb_cnUisDwD1Vz|--|MPREb_UIVacfjxnCL
+Hardnox|--|UCXiERCALvB63Dh7OScZGaKg|--|MPREb_COGXP188YjW|--|MPREb_Se5UxzH9znL
+Petrie|--|UCpArPIbU9zQuSbN87tg7C5g|--|MPREb_GZ6NAVC9KNu|--|MPREb_JonBd38Clvu
+Paramore|--|UCl2qVCHeUjL3lCnSCrKxtoQ|--|MPREb_EqiWJGdezC6|--|MPREb_23mzLncd96n
+OK Go|--|UCJwQvoGAP0BHXZIvGpY0CJw|--|MPREb_SbCTNuJzVeG|--|MPREb_FnJKrQZp9LM
+Noiseworks|--|UCPSM9vZtpK1INfhHnU8EoCA|--|MPREb_4JoNZxjI67D|--|MPREb_grbNs9T3jB4
+No Doubt|--|UCc-WjJ7FgjeD4eARSlRYqwg|--|MPREb_r6W6t3DC21S|--|MPREb_JbOKFQxq54v
+Nirvana|--|UCrPe3hLA51968GwxHSZ1llw|--|MPREb_uSALvO7T9al|--|MPREb_6xZRXnVguFJ
+Nine Inch Nails|--|UC8txE2ZyN2Sh8XxH5OkHLSw|--|MPREb_b7cimg71a34|--|MPREb_2JhnUkS0aBg
+Nickelback|--|UC1T4LYUer48KhKlrru13kUg|--|MPREb_HRd25j3K7xk|--|MPREb_NBhyd7xJSz6
+Newton Faulkner|--|UCYjgx164rPNTUeqY29EuMCg|--|MPREb_IALPfWw7hCr|--|MPREb_wrhRhjZQKEJ
+Muse|--|UCw8jIQzB2mdvvo_CVplLxug|--|MPREb_EdNYawj8UYI|--|MPREb_rkOtKYBIupi
+Mura Masa|--|UCEYapch47TYc3ldsQIrC3Uw|--|MPREb_WMKv2B2idXP|--|MPREb_VVYxxvM6tXZ
+MSTRKRFT|--|UCMvZDBCY6WaRCX_f3Ak-gPw|--|MPREb_rkEJ7a4mGei|--|MPREb_r0D8NWzvf8G
+MRKTS|--|UCwYq2SMuzLhtCo1UGqiZrZA|--|MPREb_BefMCdODCaK|--|MPREb_ArFKfOZyXeX
+Movements|--|UCKF7l0K3SftHvj9fMB_C7Bg|--|MPREb_lBIN2jQkdmD|--|MPREb_yu7GXRg2yB2
+Mike Posner|--|UCcnkKe-QXt91ZVtPVKKahLA|--|MPREb_XEnKkhZYCnV|--|MPREb_SbgfpDihiJc
+MGMT|--|UCcP74mIhs125nerd5o5Dd-Q|--|MPREb_SVUClIm0R0g|--|MPREb_96YmQgaXodB
+updog|--|UCSkKt5eg7UtbberBxrxj_pg|--|MPREb_1lBSaNv4rux|--|MPREb_BcPObWfKFRK
+blackbear|--|UCDiwafAY8YnWgHVInmrFsQQ|--|MPREb_SdE35HcAebr|--|MPREb_dv5yhsaq0MP
+Matt Corby|--|UCR2iuWSzShNMhtoRWaMFQdw|--|MPREb_LNyePamFOVS|--|MPREb_WoRJGovS0rg
+Matchbox Twenty|--|UC07e9OxFveoxa2FoZtdnHHA|--|MPREb_z90jWi8sZP9|--|MPREb_SLvP8DwexSC
+Mark Forster|--|UCkQRXVZuBMktEdVyptoUgGg|--|MPREb_DR25Kb2JeQs|--|MPREb_BI4hKNHendz
+Weekenda|--|UC3lhupn8l_EHiBfXNZWi-HQ|--||--|MPREb_r8fdAxgsiSX
+Limp Bizkit|--|UCXe06VQdj4l_LyuUGh__DQg|--|MPREb_KWbcdJIIFRM|--|MPREb_Bbs7dgttbXU
+Lifehouse|--|UCbQiXLAiOlSqerbVYKFHOow|--|MPREb_QwGWwyRWWX5|--|MPREb_B9QX2O6fi8Q
+KLTR|--|UC4JRvNL14tSSfI5FvzQSH5w|--||--|MPREb_Izxp2sMjADp
+Kid Cudi|--|UCo2-dPLJcpbZK84FIt0vD-w|--|MPREb_0cLCOdMpdGQ|--|MPREb_oO6Vk6tSvCq
+Kanye West|--|UCRY5dYsbIN5TylSbd7gVnZg|--|MPREb_p8ZJ7RBJqko|--|MPREb_oX0KyQohEQ9
+KALEO|--|UCe5SlSvnHTsnmBBXoFYXXGg|--|MPREb_FfhulUE3QL0|--|MPREb_ouy1SKWFAAi
+K'Jon|--|UCHUTABrGqdmyFu-RgQMouWw|--|MPREb_U2cUj9e56au|--|MPREb_DAhxY3zW4dj
+Justice|--|UCcJLC91v0A0iD-CMUWdZkig|--|MPREb_gJZdlhyThkQ|--|MPREb_eg15AwwEaoC
+Journey|--|UCPKnuPciHDB8qw-wyBVQo9A|--|MPREb_8aoriUMpMGt|--|MPREb_6o0Lc8Ygx3n
+Josef Salvat|--|UC-dsqx5nGBhpHqaGH_eg0GA|--|MPREb_ocCoIBkF1j9|--|MPREb_DRmVois6zhW
+Jimmy Eat World|--|UCf-8uamcMHd7KGzN9h8izfA|--|MPREb_xDGDbDFrtRa|--|MPREb_td1K9ohXEAv
+Jet|--|UCDY3bjtG-e456ADVpfDZ4Tw|--|MPREb_KWbNccBGPoI|--|MPREb_XatpZ6iGP90
+Jessica Mauboy|--|UCKvjEfygwOTNPWXiP9Hkphw|--|MPREb_YifMXwribuZ|--|MPREb_mqJUUTKjBwf
+Illy|--|UCmL_7IWeHCp-fC31XgtZk7Q|--|MPREb_1mM1mPHw8gK|--|MPREb_8gxi9gq7g4n
+House of Pain|--|UCvapuxdC19hNs_4y6L3OP9A|--|MPREb_sGaFJ4FsZEA|--|MPREb_TejxnADuVrO
+Hollywood Undead|--|UC02e0Ntqqe7JSRkXTfy1R8g|--|MPREb_8mWR8mKKzAe|--|MPREb_LYJfgA080ab
+Hoobastank|--|UCApYZt0aLG30DTt0g4yKLmw|--|MPREb_EWX8JbGyPlY|--|MPREb_WXVGLCWShcV
+Hitimpulse|--|UCzoWKvvNVZZcXAfPbCEgOpw|--||--|MPREb_UDMpopLlCuV
+Hilltop Hoods|--|UCTqqx2yRasEUzMYVP2_hi_A|--|MPREb_X3KZzWffzFF|--|MPREb_gRNl61StBqy
+Gyroscope|--|UC1rGI5DvQDAaKwKM10E9ZXQ|--|MPREb_sj7U6AalgCa|--|MPREb_voNSyiRINwi
+Green Day|--|UC4JNeITH4P7G51C1hJoG6vQ|--|MPREb_Mj7HYssWpVZ|--|MPREb_w4F3MF41q6h
+Got Jax|--|UCJJi-Ypz_esiWmg8hvW8PuA|--|MPREb_yLry5FAy7ow|--|MPREb_i353jjXuZ5A
+Gossling|--|UCY5ceM5ERqz12zyNVgP32hA|--|MPREb_XtnyhLUJUxg|--|MPREb_FuNOzT79pUc
+Goo Goo Dolls|--|UCjOkbXu7vYeeQrA7R3-OfXQ|--|MPREb_TRXoJ7O6k3d|--|MPREb_D0uUQrml2rx
+G. Love & Special Sauce|--|UCqNlddUxq91-5qnLD8xB9qg|--|MPREb_SlsQuXNNbVn|--|MPREb_ljqBG8N3o6o
+Franz Ferdinand|--|UC02hzkbqEtyTdwRUpNsUnlA|--|MPREb_sWjnCPoztOf|--|MPREb_ZgeEa60MHZH
+Frank Hamilton|--|UCn66b7WzWXatoHGrp-d8WMg|--|MPREb_vLFhrOR75Un|--|MPREb_Bby3pXOqZlE
+Fort Minor|--|UCpa0tuBlH5evXaVIQ0yPfCg|--|MPREb_CY42pNyeHJI|--|MPREb_56CBnbGagmn
+Flosstradamus|--|UCTMLYsyE2WmpfXikJlPhZHw|--|MPREb_twF6wq5ngQP|--|MPREb_K4yFgpLAUmE
+FKi 1st|--|UCqa1eC25uPc_PMZxC10792g|--|MPREb_SDlUevAx4VC|--|MPREb_GGYcSvmrItT
+graves|--|UC2Vu5ELZ-fNM5awyXTWyX0g|--|MPREb_Ounfo7LfwYl|--|MPREb_CQV4C1A7Qja
+Evermore|--|UCvuR4gFRpPsMsEWisVwITmw|--|MPREb_LnkiVtswR5h|--|MPREb_jz2ONbvPVUv
+The Living Tombstone|--|UC5EH9egdct4dmAo3AHwzPBA|--|MPREb_qeGAdJ6vUaP|--|MPREb_rXrJ4fm9otC
+Eskimo Joe|--|UCYr4CgK-WLXML5-QdCX-3XA|--|MPREb_SZ0sP1D5cXf|--|MPREb_WutCdthtAHG
+End of Fashion|--|UCKa_CzZHuBkVp_ThMVMYfMQ|--|MPREb_ja3jODrCAv0|--|MPREb_4iCpAyeURMC
+Eminem|--|UCedvOgsKFzcK3hA5taf3KoQ|--|MPREb_WALokSukf0y|--|MPREb_k15oukterJY
+Emarosa|--|UCZBeQMtB3bev36tg8dlem-g|--|MPREb_1mX7N6TVAwT|--|MPREb_sVxIaputRB4
+Dillon Francis|--|UCKm78y6KGUHBtvne8iWyHvg|--|MPREb_kig6ZFdib25|--|MPREb_6oi6oSbriHK
+Def Leppard|--|UChn30LXbAZKSIQqPJ2iezng|--|MPREb_ULjumzXetYC|--|MPREb_vy3qlzAo7yh
+Death From Above 1979|--|UCbK-XsO0CFb6OEIa-UeOFAw|--|MPREb_YlGIXZU1bdg|--|MPREb_wyhV6dIySgo
+Dead lakes|--|UCyxS44mRG-hvj0mhguv4f4Q|--|MPREb_dXToRCeNsbj|--|MPREb_LeVnDEKKQLK
+Daniel Powter|--|UCbW7ezx3DDGggq2evHtGBww|--|MPREb_QuU0RmdWDn1|--|MPREb_DFqF2gtTqvz
+Daniel Bedingfield|--|UCvZBe9P6WkMdEyh94qFNIKQ|--|MPREb_R6BbT5RMeuh|--|MPREb_Lf036NqTzDm
+Daddy Yankee|--|UCXRloA7YFgCfd6sU2_Y12cA|--|MPREb_3ZEajNhltsg|--|MPREb_bjLX6qD0n6x
+Cutting Crew|--|UC7CYIif6lYnbE9ouq9XNFRQ|--|MPREb_OW9jpvvsLGE|--|MPREb_SHvpwBcY5X9
+Crazy Town|--|UCkPc7d0I0PpBE5mw09DYy2Q|--|MPREb_xpRKnzwhO1B|--|MPREb_RrUyD4baMeG
+Counting Crows|--|UCZyvQjTvS_1fiCaz-cU9luA|--|MPREb_0GXM52BTViI|--|MPREb_SK5g6RY5KPx
+Clooney|--|UCLc81tYFxffLy3Dn5CwKnhQ|--||--|MPREb_Wy2THsH78X8
+Citizen Cope|--|UCZdhkjBPdY1Dby7o8lVq0xQ|--|MPREb_YbXyRmAyReR|--|MPREb_vIKinUx7WdG
+Chris Tomlin|--|UCv5dVQlpnacBTFboNz4NnyQ|--|MPREb_UkCeEvgAp8T|--|MPREb_k3EkQU8F1eP
+Childish Gambino|--|UC4hvOh5lgkeAJoVRIg40Kgg|--|MPREb_twBJh8bWM1d|--|MPREb_WK571oqt8Ym
+Capital Cities|--|UClxuMOFeLBJXk8nt-SolPvw|--|MPREb_3GdNS3RYYyJ|--|MPREb_ar30xm3ErCf
+Caesars|--|UC5bO1Jrgy8LlLMJtXf5V9nA|--|MPREb_V2JgZEedXob|--|MPREb_2W3lW0wV6z1
+Boys Like Girls|--|UCUMVaSA7G1VLTnYhivV3hmw|--|MPREb_ifxFLpC732k|--|MPREb_48kUvBFgfrd
+Boyce Avenue|--|UCYYHYtnpz6MuHqpJvAOTgxQ|--|MPREb_63vvHDOuG9M|--|MPREb_NZuR5d31986
+Unlike Pluto|--|UC1LmxpB0f-eVMB7X_9ziTVg|--|MPREb_Ia5wGLSeqiT|--|MPREb_lCsjHeDtwqx
+Bowling For Soup|--|UCmvVldMw5hzFqoYr0ZfXxAg|--|MPREb_QUtFUM8dzPP|--|MPREb_6zAjOutoves
+Bon Jovi|--|UCCL-yoaPLR-7bxZM1xlcQcQ|--|MPREb_DoRipFPi9MJ|--|MPREb_KOv69knRJAV
+Bluejuice|--|UCuujTG4sk7_uLw98bImZ_Yg|--|MPREb_AVEdXJCGVcX|--|MPREb_Facmx7wJD6E
+Bream and Blinders|--|UCA1a58-gZEkKrBNr5yIcPmg|--||--|MPREb_mv73hiXvU9a
+Bream|--|UCzmd_PLzXNCZLd430qYdXTg|--||--|MPREb_mv73hiXvU9a
+Blinders|--|UC3TkEVclklmY38h-fOdcntg|--|MPREb_4oKpVsgNCSI|--|MPREb_XYgAbKoCIlQ
+Birds of Tokyo|--|UCSHXfGbuCfx9_xPfwqD5qmw|--|MPREb_HM8ntYzKQAL|--|MPREb_8w3ZVRDFpef
+Elijah Blond|--|UCBwOLLMASs4oLHvXFAclPcg|--|MPREb_3O2ua0kNEaS|--|MPREb_W1ME2Cawhhz
+Billy Idol|--|UC_R3nYWHZV0tGgbpuDoI0vA|--|MPREb_78dFIhqmnni|--|MPREb_p6XkT8WySXa
+The All-American Rejects|--|UCIo16EqSZ0A4HXA-kf5rSuQ|--|MPREb_fOY3ZYq2MzD|--|MPREb_JRKp8lNC1zm
+Egzod|--|UCGgeiSMVvdO6xpCRtA7P9Rg|--||--|MPREb_bQg79VFCsus
+Dave|--|UCu8B46V0mU2Wqii6qUatrvw|--|MPREb_Smumb4lKAk1|--|MPREb_knYtKc3kqTE
+360|--|UC4_rB6ZZkXriHRYWLzgMmyg|--|MPREb_HR9I7kgWpkS|--|MPREb_P0tSJD35dlE
+3 Doors Down|--|UC9eiPNoDEg2Ji4ESvq3IPXA|--|MPREb_anLbhCKpm2a|--|MPREb_Pos6l4L38Fd
+20Syl|--|UCcjF7DzASotYzY2LbokwSdg|--|MPREb_ASsuvJ9XaIh|--|MPREb_aaPwX6VJcXp
+Smooth Jazz All Stars|--|UC2nC4QYZyHRtYquXusXRIEQ|--|MPREb_uBksdSVAa3A|--|MPREb_3qzbil4gRTa
+Mario Winans|--|UCICdleNljIBFD4lXsSdYyyQ|--|MPREb_CjZsMC78Igo|--|MPREb_UtWdd23OBsg
+Natasha Bedingfield|--|UCYDsQPS-uLOz3DPhNOvkMQA|--|MPREb_QPYiUkB7sLp|--|MPREb_oK3Tf17RN3o
+Justin Timberlake|--|UC6VwktUsQQDCkHG1h6YftAQ|--|MPREb_XasIkluztfp|--|MPREb_9LStZ6zDVbT
+Akon|--|UCRWV7T1N1UFFYsiiEAoUbFw|--|MPREb_GPaLjOcNVYO|--|MPREb_6On2SMo8KQX
+TV Rock|--|UCRWSwUq-XsCQGxJ4abwuJ5w|--|MPREb_z3AKpouOEBy|--|MPREb_ifdqaGrjlXh
+Timomatic|--|UC391CewkvQhb5YZdAfo5bOg|--|MPREb_YT5if7T1dtg|--|MPREb_TyoLVJvV4ES
+The Veronicas|--|UCXA208OW8yW039Ey7i8qr0A|--|MPREb_jlcu9AGigjV|--|MPREb_qH28ba3C5lL
+The Pussycat Dolls|--|UCRjEjH_Xj7sQNJ9A_RU-RiA|--|MPREb_NzqmrTLZduO|--|MPREb_wu7TNUgcIEN
+Stan Walker|--|UC5cuhovBP2rzWafwmXpwjfA|--|MPREb_kx3L0nVS1fo|--|MPREb_6cAJrTqmysA
+Stafford Brothers|--|UCl2njl16FCRob8g8xaJC4IQ|--|MPREb_y5zeYuJBXFO|--|MPREb_wseZuMM2fr8
+September|--|UCZahqvBY1wnxaLXZdnYEXTA|--|MPREb_wjtkYHat9FA|--|MPREb_eG9thpHugAz
+BIGBANG|--|UCI5OIwx9z32Zurb8t4Umzwg|--|MPREb_agAZQO8Drbp|--|MPREb_qyI3IuVeqm7
+Sean Paul|--|UCnCNNA05VZcH8wVJYtC-6ew|--|MPREb_NrFhaYOQi3w|--|MPREb_npVKdVFNtEF
+Sean Kingston|--|UCew2o2ZxFMBSQHTqI7eQCjQ|--|MPREb_gQEzklcxUhS|--|MPREb_JcM82s5so8X
+Nelly Furtado|--|UCWV94Z763GSdhLQ8WIb2JRQ|--|MPREb_g2gV80ZTSTV|--|MPREb_fpZMUTgSjrB
+Nelly|--|UCggm1vqFLAJdYDTc1DQoVKg|--|MPREb_ekO4rJjOD1r|--|MPREb_6vqM554x0Pp
+Ne-Yo|--|UCOHN2Rba82QVQTLJ3Gumx_g|--|MPREb_QiBRcekdjUH|--|MPREb_tqXCCc1GUBN
+Natalie Imbruglia|--|UCnBsljUmvaNB70gvh6mQ4jQ|--|MPREb_FsU3wrDpJ4W|--|MPREb_1gs9REhxenJ
+Nana Fofie|--|UCd8KXpRHlJsxp2RZdOEKQXw|--|MPREb_UUxlR6MNShR|--|MPREb_nFVdiulPBUR
+Mohombi|--|UCunuYDnv2e7I83g9iJeZAMA|--|MPREb_DOp2swFRLrr|--|MPREb_uEYgl4L4PAk
+MKTO|--|UCRjvDJKI5na1A-sym4BC5Tw|--|MPREb_KhUdmO2MmaL|--|MPREb_ME7rd3w15nE
+Metro Station|--|UC-HY30WheZEMb0zC7xkVaDg|--|MPREb_IIQjgKORf9q|--|MPREb_wRPYoPajIWa
+Mario|--|UCpiTcKPKoOiUjIWmcgaAQrw|--|MPREb_tqAGjH2oygj|--|MPREb_WYywEuSKJ6e
+Kevin Rudolf|--|UCUndRX9Q3GbBCxqO-JxpXDg|--|MPREb_FXnKnZAVGXd|--|MPREb_hXqK9ZCj4BW
+Jordin Sparks|--|UCnMHVYsQ7nSpJEHfku6c4nQ|--|MPREb_R11w20NJK3Z|--|MPREb_rEvpf7FKY3I
+JoJo|--|UCbMilaUS-TBJEHyoyvErorQ|--|MPREb_xso98UzXwXH|--|MPREb_6esF8uHpeWS
+Jay Park|--|UCmpIV45msPJWMOBaPMmufSg|--|MPREb_d6n7eW2TOjQ|--|MPREb_p8bGuAcq5Wx
+Jaicko|--|UC4n1hBWXbV5330PoIPo3nfA|--|MPREb_mAGp2D0Q0tJ|--|MPREb_pjBKtlKvVMv
+J. Fitts|--|UCL_lFaTxWYV0G9hm4lk6f_Q|--|MPREb_FCDCxrkkUCM|--|MPREb_PMa3h6P6HVY
+Israel Cruz|--|UCqWp7oHel3M-QNwbT-7D6oQ|--|MPREb_GtUGQlhnT8J|--|MPREb_75wOJ8zYRQR
+He3b|--|UCu-U6Ifyv0WElSCicxJoocw|--||--|MPREb_kcRer1IDG9m
+Conor Maynard|--|UC306pm4NJVl9MfNPfBp1Suw|--|MPREb_KF3ARgU3PyJ|--|MPREb_AAWlogZjorj
+Iyaz|--|UC0tIFKS5uijPeJLjH8uAWJg|--|MPREb_8j7zhzBxqCn|--|MPREb_w2CQUoOJUb4
+Jay Sean|--|UC5IMokurjvYCO1AWiCOskYg|--|MPREb_bsKbaL1F8eh|--|MPREb_CpviIL3sp4s
+Charice|--|UCSya5izQjtdeHfZMK7Rv5Kw|--|MPREb_qPxJao6V74e|--|MPREb_Iw4yZC2IZc3
+Le Castle Vania|--|UChxEsFhm_TyzarA7_xtqrew|--||--|MPREb_BodZ4NAokrM
+Tyler Bates|--|UCpS84PPvW7FWkHslEBeuWcw|--|MPREb_qgqu9RFxhOC|--|MPREb_xspDcTzW2j8
+Joel J. Richard|--|UCbHv0BtUEIibd5TYL6bxNwA|--|MPREb_gyQiqxFR9wg|--|
+Le Castle Vania|--|UCaBt14IgRdZEUiER-u3qScw|--|MPREb_dSfFOzUHXo5|--|MPREb_S5qAcGP4zO7
+Demi Lovato|--|UCwem2sj-QUJCiWiPAo9JuAw|--|MPREb_OyV0U8rTItO|--|MPREb_oiXfx2xN5Iq
+Rita Ora|--|UCNXPynAx1TD9qqj9xLsmu5A|--|MPREb_0VZubLAhkIV|--|MPREb_g3Y1c9ERuFs
+Katy Perry|--|UC_7s69e1mDS3lgcTMJEPjCg|--|MPREb_RnDOh9DX2ZT|--|MPREb_QwQXDQDSRpP
+Jess Glynne|--|UCySKHMJ31dcWmdOUyMQUJPQ|--|MPREb_bJuVSn5SRiE|--|MPREb_sKPALAPy6I4
+Kesha|--|UC4dTCL_is1o-dQLksanXmRg|--|MPREb_kayFyGbQTyY|--|MPREb_CPolISmKpce
+Cardiknox|--|UCflU0Lxh_DSJu1BgoBSEuUg|--|MPREb_IvZj8xk1fGY|--|MPREb_jPlUrrhIp5U
+AREA21|--|UCuov0GJ40MwRj2gfdpLm5dA|--|MPREb_JWmSHAZCABf|--|MPREb_dOW8Iu7uaGb
+APEK|--|UCWzKqrOt-d5mOZd4jG2aJ1A|--||--|MPREb_RuBsAWCr7K3
+Husman|--|UCl4Qsae0GizdnA4PnZHO15Q|--|MPREb_si3iEQpaDFe|--|MPREb_EBJfxcOSTqe
+Anne-Marie|--|UCkVBToGZ1PTrMN22TAKyO6Q|--|MPREb_DSimtnrL7xq|--|MPREb_BP46YBpezeV
+Anna Yvette|--|UCcoyaAR2eFDHA5NByL-fyMQ|--|MPREb_BkIwnGmoAKm|--|MPREb_lq9ruZePd7q
+Laura Brehm|--|UC_7TuGrjuLuFyZ6JD2XLGPg|--|MPREb_D4L4dqJsvV8|--|MPREb_dX2nresZIGM
+Samme|--|UCvp2pS7onUJKUDHvee25vyw|--||--|MPREb_kurn69u0TFA
+ANGEMI|--|UCbdvbiuEP_2uDYH9dTM7lBQ|--||--|MPREb_EGfxEXOZCZ5
+Andrew Rayel|--|UCvCUhKLBgJawjIzHCgZ2GeA|--|MPREb_WySfWZxEX8p|--|MPREb_qYIDw1zxvP6
+Alvin Risk|--|UCqlEz_jxQUZHLRea-FJrQgQ|--|MPREb_uN5n9jPJY5y|--|MPREb_Bp5aXGqUKRT
+Alina Baraz|--|UC7MnunUSU2eHuhkqydJMFUw|--|MPREb_mR0JN3WcNnJ|--|MPREb_J8bAvwz74wv
+Richard Caddock|--|UC1FBCMdjn78Cb9VP1TDxp-g|--|MPREb_PH3sBDrwNEX|--|MPREb_WvC4XDGCffL
+WRLD|--|UCruRFRc5zEII5oquq6DtB7g|--|MPREb_4m7yjN7reWQ|--|MPREb_2Aiz0EmRLCc
+Slippy|--|UCPfAIpAnYG-8lUHsLQF-mYA|--|MPREb_b1ZkxfMQlQx|--|MPREb_9qj0zQDrawm
+silvershore|--|UC6JKuMzTPABFeUP_yV9f57A|--|MPREb_iDrE3qXvCKO|--|MPREb_HG9Tnn8G6iK
+Anki|--|UCWB5WdhEsluiemd8r2N6Yrg|--|MPREb_iDrE3qXvCKO|--|MPREb_HG9Tnn8G6iK
+Hyperstar|--|UCrvkQKgJBoInGTkxPowfipw|--|MPREb_uw3JEL7rLmA|--|MPREb_ng9VhTCii0S
+Affectwave|--|UChmGvz5ObXgb8NtzU-KNAag|--|MPREb_i8YMyxFfoNt|--|MPREb_GHJYIaTvDcO
+inaloque|--|UCVTbPMFgCC8LRlYETCbM01w|--||--|MPREb_WdR99w0oR2T
+Amplift|--|UCRYvOnzWm4FciecqCIdQwgw|--||--|MPREb_1DxHWXSX2Lt
+Dimentros|--|UCkEs3ifvUqfXdte5e2TRZZA|--|MPREb_H9uAg97Ksdz|--|MPREb_2LJBxPSYVJR
+RIMEN|--|UCcmb1va-2gL6ZufILkV9wMg|--||--|MPREb_o9yink3mJng
+Unvion|--|UCWHDCGV578vFB0FuCDAf3ww|--|MPREb_ixCkh2ynnYl|--|MPREb_L6kplkdj4tz
+Ella Henderson|--|UCWN8EUD00PTyo5QQ5ueRr-A|--|MPREb_E210vF0SHfh|--|MPREb_PrJeQQMckPc
+Brooks|--|UCwu2vfxad2uD9-PozASxKrw|--|MPREb_xG35xf0Jqp7|--|MPREb_wFcuzRDGOnD
+Galantis|--|UC4dW20H96zkAdeWVg62r6-A|--|MPREb_dJssPsdCuDF|--|MPREb_zGyzXIkzktl
+Little Mix|--|UCgIhCdKWA2puSjf-XZ-FYGQ|--|MPREb_sqrQyoirQu9|--|MPREb_kU7nUxyps1n
+MORTEN|--|UC4Shd6EUJXO_eYVPTLaH6vQ|--|MPREb_h0rxgdAjaOj|--|MPREb_ReP84VB8ijd
+Netsky|--|UCkZ9YZz8Tzhg_R33nEitE8w|--|MPREb_94ptqFKAyG5|--|MPREb_hHDD9zrNRYF
+Afrojack|--|UCgJqds2cC7CBJAaUchpdJFQ|--|MPREb_HZrdu45Tih6|--|MPREb_S99fY9vBbPf
+Bombs Away|--|UC8yor-E6PvJZi6zgiA4SScA|--|MPREb_Hb6gbrGxL8y|--|MPREb_laDutG0tLEi
+TANKYU|--|UC379dofdtNAPsgBcHTqQigg|--|MPREb_Zn65vzYMwqi|--|MPREb_cA1Qx8RRDtG
+Vandalism|--|UCwH_VTQ7ape84q9B6vFL28g|--|MPREb_GEa3zlgsK6G|--|MPREb_Py7wl02UApJ
+Seany B|--|UCzwIwUUWOvQVtyAphDTTAkA|--|MPREb_abuNXGTUhTT|--|MPREb_c0rnyVGr5WX
+Matoma|--|UCjG4DyzF9O0l3a6fM-ko8yg|--|MPREb_FZVy6YoccPo|--|MPREb_PDo5miXAp0M
+Cash Cash|--|UC5EtjJLEqaSDZ8kVcnhNNGQ|--|MPREb_8QaR8M36B9v|--|MPREb_1Vjin3HwCnG
+Foxes|--|UCxEf_95JFNMrmkWb6b3jasw|--|MPREb_RACt2SQZhOk|--|MPREb_jMdbu2gn2gK
+Codeko|--|UCZsLEDkI9N1sNbd0WzEWluA|--|MPREb_MiuBwwn69CE|--|MPREb_gVFxfjH9oNO
+Illenium|--|UCX1RfjxgafTHW4gYocAD1lw|--|MPREb_He7pGCIKqtN|--|MPREb_7E1EkrcK1FD
+Charli XCX|--|UCI4YNnmHjXFaaKvfdmpWvJQ|--|MPREb_17YcoU5m8RE|--|MPREb_P0jjU9FrRw2
+Coldplay|--|UCIaFw5VBEK8qaW6nRpx_qnw|--|MPREb_IqNHzoNhJBP|--|MPREb_Tvy3JWvDPE5
+Tritonal|--|UCFovJ6oJ3ITB-ZXdrskKT5Q|--|MPREb_uQtkhMAiG7W|--|MPREb_e5nylO900Az
+Nitrous Oxide & Hodel|--|UCKljcjOTinv2FxGaSMi-72Q|--||--|MPREb_aL8edHPqjmc
+Vion Konger|--|UCkGPKcg7e2JQID13HxV38gw|--||--|MPREb_2cLeApQIfaM
+BT|--|UCuLwdKnJsbzMd6VLBqKC5zA|--|MPREb_zzt7Y3H3uRP|--|MPREb_Xak1sHL6YsT
+Nadia Ali|--|UCySx1VcjPfKz0KB25xj8YFQ|--|MPREb_Zbgq269xJmp|--|MPREb_vKNZ1vRHAn1
+What So Not|--|UCCsaNVXPQAq1xF724Agb8tg|--|MPREb_oCoglo97Si8|--|MPREb_PgU9kjc2Ppq
+Jay Hardway|--|UCbnyyCwgqv7YVnx2cyANpxg|--||--|MPREb_iX09Yjz5yHu
+Robert Falcon|--|UCofjmm8yMapk6sEccbMJNEA|--||--|MPREb_8G6gP5URwhO
+Mesto|--|UCjkJFiodfnRldYT7isvnckw|--||--|MPREb_2almeKxkH6T
+MOTi|--|UCJMiWV32UqoIXHshcxYpOXQ|--|MPREb_ubkhFnqD3oi|--|MPREb_mRxQSgDAclK
+Firebeatz|--|UC83KRXMahVfzXdQkG_Z2Lag|--|MPREb_ZJ93dthNxYT|--|MPREb_rFNHrifIPdH
+Dua Lipa|--|UCzVb0SIXp9q9PeKCcFjsBtA|--|MPREb_sNLYDmaJpcI|--|MPREb_e7DUrWpuroj
+Matisse & Sadko|--|UCJ-YZiz-gucyqHRqOU4h_bQ|--|MPREb_8FvxjC2hsfM|--|MPREb_8Kqre0BUePY
+John Martin|--|UC6uLEXL0UUXgRUnMkxeAUuw|--|MPREb_ss36rmRneWU|--|MPREb_XTw47wi7uVA
+Shaun Farrugia|--|UCXa61rQp9QMHyP-yr9YgAEQ|--||--|MPREb_aDRnDhP8bZP
+Justin Mylo|--|UCuixfrBe0unTK0eP_774MTQ|--||--|MPREb_uQdWF4zSM4r
+Vluarr|--|UCLFxmHjwJRVhspTWs5lj40g|--||--|MPREb_96qpuyjgUv4
+Zedd|--|UCGVGIqHPzwLhZg8KQNVaRbA|--|MPREb_IqrDg3flemx|--|MPREb_MisZuKD6Yfy
+John Martin|--|UCOMQA32EvwoBsLW70UqU_pQ|--|MPREb_wAOGXkAddSJ|--|MPREb_VBn0LFoIMku
+Dean Lewis|--|UCUC_Qp7oUMwi4BIN2XH6G7Q|--|MPREb_h6MXaE4lwdi|--|MPREb_mGz5h20tINk
+Bonn|--|UCioJFmi3KofHNlXovPS7aJA|--||--|MPREb_CrWuJx9D479
+Julian Jordan|--|UChgWr8XyJgT1429gILALllA|--|MPREb_ebmxpe7VirI|--|MPREb_fy6FpUCvO4J
+Mike Yung|--|UCSmSM7iZ3yeXSI1hwseqcNg|--||--|MPREb_sIMyWXL7Ke0
+Pierce Fulton|--|UC7z6jf4HN_I5qCgxXxc4dlQ|--|MPREb_z3pPdIqh6Oi|--|MPREb_iLWoeRvljoY
+Dyro|--|UCGuR_6N5thmouH37pTUsbwg|--|MPREb_lGwx0DaVag5|--|MPREb_h2msnC2HN1L
+Justin Mylo|--|UCPbbHvxR-HwBC9gbAgV12YA|--||--|MPREb_xWKvICLcTET
+Troye Sivan|--|UC11RplprGRVVtT2tgtcYzWg|--|MPREb_wQw9f7FVDpU|--|MPREb_odc28zdZePr
+Tiësto|--|UC8VSaPhuiHkjobAgNpRqLIA|--|MPREb_QdZIAbLG7EF|--|MPREb_WoKi3207al3
+Sander van Doorn|--|UCl1GcHm6b90KnxXkRd_EX4w|--|MPREb_TcDBqTsDKsA|--|MPREb_8kSB1VGNn8r
+Timmo Hendriks|--|UC5SxCazmw6HmqDZDW3L8uhg|--|MPREb_j11R22hAwQz|--|MPREb_lMiTtMDiM2S
+Jordan Grace|--|UCtGIzS3_0CpPEDXcyj2WAeQ|--||--|MPREb_TKmjVaXqKXZ
+Said the Sky|--|UCoGiAD7-EA1Ij5Hcq920Gnw|--|MPREb_QtqXtd2xZMR|--|MPREb_UvLEiwUbDrw
+Paris & Simo|--|UCBZL6EtD0bq43Usri-uZGDw|--|MPREb_cjjSYT1idbJ|--|MPREb_6M2DoCE4UAr
+Shaun Frank|--|UC_xjSH7-6Gl9NrMUXfJuqTQ|--|MPREb_Ai7FlZTPrNc|--|MPREb_sU5HIpciKUn
+Grabbitz|--|UCqo-N57popk2x3J2Tmh1cjQ|--|MPREb_res6Y6vYF2Z|--|MPREb_s7auJIqESjH
+Deorro|--|UC89YRh6abbGfAHln2-rGHRA|--|MPREb_MDcjE2HRqgi|--|MPREb_AC8Yzv8c9S4
+Lara Maxen & Mickey Valen|--|UCUMR76mHxcUKA8Ae5hGGKqg|--||--|MPREb_kMtaX0XNYgH
+Loreen|--|UCpYX3GkOcmXISdUqjD0qksA|--|MPREb_v8LDjYMZxoD|--|MPREb_YlVGV382UJM
+Nero|--|UCeS-Obw3kbR8cTL1KiAa-Rg|--|MPREb_VB5bYnLVCbc|--|MPREb_hgGhdu7qYQ4
+The Eden Project|--|UCQ9H0zyKsls-t8qHbvdcxEA|--|MPREb_DxGGKFIU1DE|--|MPREb_AcQWevDHJEQ
+Steve Aoki|--|UCLZzDSuaR-nu8ARUU4ydcYQ|--|MPREb_cdOhUfnanIH|--|MPREb_zGnA2cMUdlk
+LVNDSCAPE|--|UCoNhyQGXJQ-GU6FTSX-tLaw|--|MPREb_KC7JM88rThy|--|MPREb_CKEtqxWaUXN
+Matthew Koma|--|UCJjLCZn1dIvYHO4QWm-TEqA|--|MPREb_WKD3f4Nsa3a|--|MPREb_aHwQcTlGtu4
+Cecilia Gault|--|UCXTCIpDQfYFhit2MIQMP0Wg|--||--|MPREb_UepdYfNgN33
+Echosmith|--|UC6Gp7glWcQr1cbhzQNUomDA|--|MPREb_QRfMOdO7WPo|--|MPREb_A5EBfX1IFXC
+End of the World|--|UCZbr42G3wLJN7LgklVJXMSw|--|MPREb_V8J44NPWkhs|--|MPREb_Q3MwwkBaBVf
+R3HAB|--|UCjpBcfMn2g8afa3XIZmS3mw|--|MPREb_hf1mm71JCSE|--|MPREb_YzZtQGlHDiL
+NERVO|--|UCoU2HnyJh8Oet1pHpwU-IAw|--|MPREb_VrT8NQhwSZk|--|MPREb_Pw3v5cAqga5
+Ümmet Özcan|--|UCiEcXaxTBoB_KE_WlXwPppA|--|MPREb_wM5HJFFcobD|--|MPREb_MHeAoIw43fG
+Armin van Buuren|--|UCAeLFBCQS7FvI8PvBrWvSBg|--|MPREb_MuCjerBreJw|--|MPREb_oouWhjjIGs4
+Ellee Duke|--|UC51gXQ3THMnoQAXwz1VJt-g|--||--|MPREb_9jKjcO22bVO
+Jamie Hartman|--|UChZUu_R0LocUHuv1o84rDSA|--|MPREb_1ptlVeqHngr|--|MPREb_2bNBNPxlmpZ
+Nevve|--|UCuY6qdt22nJIlFYvY-jdtyw|--||--|MPREb_1IfvYqH3LS7
+Panda Eyes|--|UCIiBsvwR6sROzw-fiux9BMw|--|MPREb_SuGfeMZmGny|--|MPREb_U5IW0kB5uup
+Veronica Bravo|--|UC6YUDO2_LzkFOUN-higrcuA|--||--|MPREb_2EByhTpJb1b
+Debris|--|UCjStr6pCeix17t_wmF4Au-w|--|MPREb_Orhkduq9COE|--|MPREb_tm1ORXCJYIq
+Justin Petti|--|UCajFvEWIlc7VkFbEZnMgM6w|--||--|MPREb_neuHr8IW1aN
+Chandler Blasé|--|UCFsNhZLKu3w1zT_MjnW5MGA|--||--|MPREb_SUusngaSeFu
+Conor Ross|--|UCXOHEORMd22djic9cSHJO3Q|--||--|MPREb_IlsSc6qlIAm
+Dirty Palm|--|UCeSLXeTFbwPcG70I9Y-czJA|--|MPREb_MB8RQTPnbbx|--|MPREb_BbITyCXDaom
+Friendzone|--|UCgXr_uUTqbeYGlh8J3Yw6VA|--|MPREb_hrDMLIafIp0|--|MPREb_NVV7w9AunEx
+Zara Larsson|--|UCB-GmTOjewVU2F_7S4ZFmEA|--|MPREb_1nFnxHbpywZ|--|MPREb_2P3k5EW3saK
+yetep|--|UCSW0r7dClqCoCvQeqXiZBlg|--|MPREb_IlzDp3Oeq4Y|--|MPREb_BrSjlCI3N79
+Years & Years|--|UCmRuuOcSvZK20VeIUM0963g|--|MPREb_m2RMmWXwkZ7|--|MPREb_sXTrY5y9Y6w
+Wynter Gordon|--|UCWHbjCNMFUejYqaesaM-Olg|--|MPREb_uhqxtmtbXkt|--|MPREb_CuvZotCi294
+will.i.am|--|UCMCqlMhBZnxsgYtI5tcFHbA|--|MPREb_ykpiBves9aD|--|MPREb_S65wRG3mlOI
+WE ARE FURY|--|UC5wRfWtqRdgvVYCimG0-HVg|--|MPREb_Myh4jlTTBmx|--|MPREb_kF1szsBqJoD
+Virtual Self|--|UCRUTAfBdJSSYGeuID2Q_nQg|--|MPREb_wYkLFexXBSq|--|MPREb_IG6uzVYj4mZ
+VASSY|--|UCyZ3F47N10K2qThWUlzTsqQ|--|MPREb_L2HhkP60eQl|--|MPREb_SQgI4kuaMfc
+Two Can|--|UCd_pGHznbYfZDMbm9KjNEPg|--|MPREb_Hisfz7rwT3W|--|MPREb_2WqisxilCk8
+Savoi|--|UCxPIxRrUC539jlfjYaIWjPA|--||--|MPREb_pdd24xvamYA
+Tobtok|--|UCbC7lCyutHVG9yEmHuGJ1LQ|--|MPREb_pKEwqTZdF7Z|--|MPREb_bbmoDqJEMQf
+Alvaro|--|UC2x7mAroo5lNaH6SmLM3Qjw|--|MPREb_MGtQIlMR2iE|--|MPREb_yUyAhWeR32e
+The Partysquad|--|UCpQXlGJu4MJVRoKnSOSdvvA|--|MPREb_D3NK6rFFvaC|--|MPREb_mmUs7oKxSbG
+Poppy|--|UCwJcp-qqo0pVvvRwPXIXKyQ|--|MPREb_TOWd1Cx2n21|--|MPREb_x6SIQ1aCrWz
+Ghost Rider|--|UCKyt3Ap9d3itJFDT5aMZKzA|--|MPREb_oF0BYJm3Vri|--|MPREb_8aj9KXry08Y
+Stonefox|--|UCT0EIk6TK_ChPkQ9BlE-TeQ|--|MPREb_0wS8dAIvnnr|--|MPREb_qIpurZpNXn7
+Ranji|--|UCBx_NKgYg1qzavFo0PKdEBg|--|MPREb_oF0BYJm3Vri|--|MPREb_GRl5RDrkVjK
+Seeb|--|UCKfd2lZ4vQDUErIoB4YsQZA|--|MPREb_Em3sd2ncKv8|--|MPREb_CHG6j9Tn7pc
+Samantha Harvey|--|UCNPi9_-bOn9qup5dp6bQoLA|--|MPREb_CDUm0Ret83Q|--|MPREb_ODRVDxI4Vd9
+Sam Martin|--|UCmc7NfmhW619RSNt2_9dTuQ|--|MPREb_cmKi3G76f22|--|MPREb_WiPnzLvHZA3
+SAFIA|--|UCLJyl9HcW_PasObpHWrx52A|--|MPREb_smbMHRAbMd5|--|MPREb_uu8WtlNNXDz
+S O U N D S|--|UCAxPvI4Y9Wh8sia1BrMaBtw|--||--|MPREb_RD4vxSCGN2x
+ROZES|--|UCvL5oPAfOMA8jD0qJLt8JQA|--|MPREb_J5SG2csgUq7|--|MPREb_4ZDYp1QjB5K
+RKCB|--|UCte-0ZrhigXTFi7wlzwmlcQ|--|MPREb_FBfLH9aHOsL|--|MPREb_hLrIclFVqu3
+Ember Island|--|UC7ROmTrpA-3AJ3mb9vLN6Vw|--|MPREb_fqRNK0uktrb|--|MPREb_WEEqKHIIA67
+Refeci|--|UCASJQp3QTUD2dz9GZAv2ZAQ|--||--|MPREb_CWTnXzWPrHj
+Robbie Koex|--|UCsZprjN_XkY2L9DHvJp0m3Q|--|MPREb_cV3p5jM368E|--|MPREb_o9MiPghi1pG
+Raven & Kreyn|--|UCitbMAs5IlXXG5GqAZJzfpw|--|MPREb_6Q9U8JOkhG0|--|MPREb_eGjaBHuZ4xj
+Pascal Junior|--|UCGGXPDj1smeoaDCxqtkjDcw|--|MPREb_XvK2Uy0rY59|--|MPREb_rM3j4omHyRN
+Ookay|--|UCb-mqvR7fShtKx14jd-_0Lw|--|MPREb_L56btAuJzN5|--|MPREb_99svhNOpDZx
+Noah Neiman|--|UC4GOo69dI714PURyuWhFUoA|--||--|MPREb_a8seSMXonhz
+The Mutints|--|UCBZr_NzFWaY8kZlRMF2TiWA|--|MPREb_JFx13GlCAMk|--|MPREb_yvONRUApXRe
+Freya Ridings|--|UCw5G4AVjJ_YI9BOTjj-v1iw|--|MPREb_KSNfJUwlT2B|--|MPREb_2X746pXCVm2
+Morgan Page|--|UCKbyvVwDP4qGiSyBULPHHOA|--|MPREb_2SO74564Qb6|--|MPREb_eG4n4Qp7y6a
+HALIENE|--|UCkhpCgSUQ3MdbiEYNHmt-sg|--|MPREb_Ute0GP9P0cz|--|MPREb_VjLvOUstf7X
+Mits|--|UCAXXdELZjlpGMvUmR4d5-cw|--|MPREb_PPN9satMvZm|--|MPREb_TV0Yb3r3NPQ
+Marcus Santoro|--|UCBAEXdhpNp3XLZ0u3u-rRrA|--|MPREb_ZxBbIYfdEBw|--|MPREb_cBG0zUovzBu
+Marshmello|--|UCrxpwXq8wCTskOQq5d_KoqQ|--|MPREb_zQnYkX1dtbb|--|MPREb_MhvrcDfgaHD
+Mark Sixma|--|UCkh50qj3CbjOK8xDYY4So1Q|--|MPREb_XMytN9JDsoa|--|MPREb_OJIHk5NGUDD
+Sentinel|--|UCCi2gueb8cSzCE7WATQ73mg|--||--|MPREb_It2OHj1ooBQ
+Madeon|--|UC9TynkEiIsDxKjtDZKmiUvw|--|MPREb_UeCkYeOSj0W|--|MPREb_Xf1z2zHzwnK
+Jake Miller|--|UCsZEF9bGB7_2U424YnpdNVA|--|MPREb_XuyRpj4QiJv|--|MPREb_2VPK9FiJkxN
+Lucas & Steve|--|UC3CUl_qWuxNANG7PavLxU3A|--|MPREb_hra2tlSFPtb|--|MPREb_RcJ3yRj8TkM
+Mike Williams|--|UCaJjl78OicxKmSWf-e1dlKg|--|MPREb_qgZ2qZR20tc|--|MPREb_31UvyXNMMbR
+Curbi|--|UC9SMOcsghOvSOOE2HvnCREw|--|MPREb_3cBRlrvw0AP|--|MPREb_4uZtjcDCShw
+Joey Dale|--|UCMM7AIzLkgeExlTpUM-Csow|--|MPREb_BLQa8ifmtGz|--|MPREb_FHXbMt9tGvI
+Luca Testa|--|UCt51qxv2ROp4u9MsuWY_9Xg|--||--|MPREb_s3WB1zuE8H8
+Louis The Child|--|UCWerwF0q4QKlKL37Yod4aSw|--|MPREb_VkXF7Fljbi7|--|MPREb_v0nKHxkkroV
+Lione|--|UCIGyQoTcZWDEwv8XtapJDgg|--|MPREb_HYPz4zsc7y4|--|MPREb_vLLsJNTbjof
+Heather Sommer|--|UCSmwF1HP3wHeHHF0Kq-5kPg|--|MPREb_TXneAFrByp2|--|MPREb_9JqKARIEQPG
+Linko|--|UCfGkjhStOOMoVF4a_JAOO7w|--||--|MPREb_yTI2VHYeKkC
+La Roux|--|UCmXMrpV7ou3Q9CQl-pE7XLg|--|MPREb_b7BeEejQFjr|--|MPREb_zjfRyKS0tfV
+Kygo|--|UCkhjJ1ozo9YkGtZ2Vl-QpwA|--|MPREb_1ssj6SRWIWx|--|MPREb_MfQj8xHlZ6s
+KREAM|--|UCfeML9fTPGi0rK_MN1Xk0Cw|--|MPREb_pTX3cIUU6CY|--|MPREb_YwemSFFRh9D
+Kosling|--|UCuscGxbQwCvPWUbJyY-9RdQ|--||--|MPREb_hbppczPSBrL
+Klave|--|UCg_ssw7jAXcpJ_42i7QifdQ|--|MPREb_aAJfu8rlKwW|--|MPREb_DBqPgZvrqze
+Kairozmusic / Futureshape|--|UCs4oIaKwCwl7HZvD_mF4iHg|--||--|MPREb_A2ZvFmDJ4Cx
+Justin Prime|--|UC4ePpiPjvEWbwSkx2HeKdTA|--|MPREb_bROrHJvDkr1|--|MPREb_xAscqZo3nlE
+John Lynx|--|UCeXGih9jxd0dj-zcbqfpi3Q|--||--|MPREb_TWjgsGfww2g
+Jocelyn Alice|--|UC_yuE5EcbsTjkvXBmV6GpWg|--|MPREb_EjhVXwQS5Ty|--|MPREb_Wigl0ewMdMO
+Jesper Jenset|--|UCV_sQ5YlfxRAlpaiRss4WpA|--|MPREb_5HAB1g0WCOA|--|MPREb_ueEO5aNQvaP
+Janieck Devy|--|UCibXEQjvqThb0phSS8Xc8YQ|--||--|MPREb_eXYgoucYPU6
+Hollywood Principle|--|UC1xlr08kIul07uXQ64an4xQ|--|MPREb_KxfavfqBdca|--|MPREb_VVhyIB6rimS
+Deutgen|--|UCXu3AJXm_nrj2O_XoxRLz4A|--|MPREb_yxlPiOD9ieE|--|MPREb_PCjcTV8XmaH
+Splitbreed|--|UC0Sc1YSCHLAaCgv7f2Kc5qA|--|MPREb_TdFBsDvqEUZ|--|MPREb_d5HqZPmDngY
+HARLUM|--|UC4ToS0ajriU9bc4YcacjqIA|--||--|MPREb_zoJWBkq1LXO
+Hadouken!|--|UCgRkw_ijElJ7rO2s20Eyp-Q|--|MPREb_SV1qrmxEmce|--|MPREb_hIkh8zDiuVy
+East & Young|--|UCquo7UWSCkvtMSqM4-aerTg|--|MPREb_fT0i1Lf0Yhw|--|MPREb_0fzcyhCDLYK
+Futuristic Polar Bears|--|UCLzzWX3aijvmWwBLxeY6p_A|--|MPREb_PtTKxkdy34M|--|MPREb_LXSFLVIsKQv
+Feenixpawl|--|UCA1ow4DHuyWrS6y3Z6hR4YQ|--|MPREb_MUtoqxpKUFH|--|MPREb_JGqe8OxuZer
+Trevor Simpson|--|UC8GJ2ggXeq7b-eD064xxWhg|--|MPREb_J7nglbBPhYu|--|MPREb_tze54Jv8klh
+F.O.O.L|--|UCay3TBbQNWR6ue9gdh3e6Zw|--|MPREb_6rtBwuriLXt|--|MPREb_5lmrUrqZ3bv
+Feed Me|--|UC9UlsJH0D1uZ3hA1LNKEV0w|--|MPREb_S1AcHBQPqxZ|--|MPREb_Aa2oECW4cy7
+Crystal Fighters|--|UCnF7eZIlr3ktaXPAu2ejNPQ|--|MPREb_tY7NdSzs56Y|--|MPREb_whzGVuqZGmU
+Fedde Le Grand|--|UCiA0Zl0amaizPGOO6Q214yg|--|MPREb_jkz5LMIdRZN|--|MPREb_xzRCrQe5QiO
+Dannic|--|UC5RRoV6X5amyYLFhsfn13eQ|--|MPREb_Z5ZsQSbEmuY|--|MPREb_obR1622NwKr
+Coco Star|--|UC_eBPcbbHGnzNNyq8p6beLg|--||--|MPREb_vDePtOANTF4
+Farius|--|UCZSmYzePT-zkJ3T2RoBfufw|--|MPREb_nIyrfUf6R7C|--|MPREb_aWmAwWryOly
+Phero|--|UC8IKksXkF0NLyCqI9O44dbg|--|MPREb_wkV8ftTXjcJ|--|MPREb_rgy46vXMuaE
+Conrad Sewell|--|UC4GN84rWrIvUPcT3RbmI9qQ|--|MPREb_Fkj29JqUrib|--|MPREb_wI9V8fNpg5k
+No ExpressioN|--|UC--1cesZ10R0KgT-yuoNmtg|--||--|MPREb_1DQV6y66I5g
+Spinner Sunny|--|UCJz9Phcc30K6brJyjkorAhQ|--||--|MPREb_rmB59QIoytA
+MKJ & Alora & Senii|--|UCeywWWz9duFbq734ANDaaYw|--|MPREb_Gy7DC9JN9J2|--|MPREb_seJbFHwPa2F
+MHA|--|UCD5mrLbrhJ0SvFkjPR5VrQg|--|MPREb_R0LBDH14WFv|--|MPREb_A4mNQUVaKbZ
+Excision|--|UCBFD23Z-C1L6Faou_HOkNMw|--|MPREb_GMkWgRgC6KY|--|MPREb_zlyGwo2ry3O
+I Prevail|--|UCH9AZnGOJebPl3RiVGgpkKA|--|MPREb_ShQ0x6NgQRa|--|MPREb_CWP0ktEYYI7
+Janee|--|UCqD0ngJxp2mfJdjpFLu5NYA|--||--|MPREb_wY5wbRd8CDd
+MitiS|--|UC3xSIzoyzI_8XouBBN2mVeA|--|MPREb_GTxu5mlvH91|--|MPREb_vhvUBwqLwEq
+Crystal Skies|--|UCTJZESxeZ0J_M7JXyFUVmvA|--|MPREb_14E5cflH2OV|--|MPREb_LrpQYMvSrH1
+Zack Evans|--|UCXbqRQJFhjLGiKzeATe_V0A|--||--|MPREb_vEsB8qxGXYR
+Mordkey|--|UCCEcZzA2PfOL7IDqAJYxNGA|--|MPREb_zhVEXVXtmBI|--|MPREb_Or4Ho5crLc1
+Steff da Campo|--|UCq85lT19MnXD-Nun0sITn0A|--|MPREb_fDEYrA8c0aV|--|MPREb_QI3QctGvYJe
+Aevion|--|UC-hT2_hUBpkACQcvtEJ67Vw|--||--|MPREb_7D1VEw7EAaq
+Maestro Chives|--|UCnb-FqRYfagkdavB9qdmEmQ|--||--|MPREb_IIYwHvapFxv
+SIKS|--|UCmuMUMoeHRiUxJBphKQMqag|--||--|MPREb_jsbpOeFXCXv
+Chester Young|--|UChZERlR6S0sF1IveL-NCcMg|--|MPREb_jrvQukzJn8U|--|MPREb_DlsfBeTHTET
+GHASTLY|--|UCkgmERDFnvCPqcHGSsF6qzg|--|MPREb_fwtU624VUgw|--|MPREb_FqJs7q5ffz3
+KARRA|--|UCh7BxW6476T-0NMEJGUxitA|--||--|MPREb_rKEUMkT3Qvs
+Maduk|--|UCpb-o6wwa9r_U0D4X8lSxWg|--|MPREb_PhgUjqttD1L|--|MPREb_kHFBUXwTFoW
+Pelago|--|UCRpkPg0HbYV_hbqEuOxSqvg|--||--|MPREb_ckloMV35uir
+NCT|--|UCp8y0acpL9EQw6oI3q1GmRw|--|MPREb_qALz2YiEFHT|--|MPREb_7sg4jItTpCV
+Zeds Dead|--|UCzXwsCed4N8BwLou75yxHlg|--|MPREb_85Vv05fMDWV|--|MPREb_T3WjXF7Fi3e
+ZAYN|--|UCYR9erHSNBPjjNswR4FrMaw|--|MPREb_yBfArTfD29k|--|MPREb_2ZBvGZ8qVil
+Yves V|--|UCcntWoaelL2plLILZoKAzig|--|MPREb_wky7aAYnbhm|--|MPREb_RcJ3yRj8TkM
+Florian Picasso|--|UC0aNv1kGc5VRLEo8Fv5gJRA|--|MPREb_5IxMy5dDTU9|--|MPREb_l6SuZc7CXvS
+X Ambassadors|--|UCcV2wQpCkgb34u4O22WG8Dw|--|MPREb_UX2yAJi72dL|--|MPREb_Zxf03GFtdav
+Wasteland|--|UC55kr5wFkgq3opqGMiNqMaw|--||--|MPREb_mHf9t2rHJAk
+Vice|--|UCyWjFMrAY1XuGjGGQwPI-3A|--|MPREb_AnSVUNKRPWj|--|MPREb_8FeXnExhxyu
+Veorra|--|UCpLDY8cESJT8RnFKyYPr7pQ|--|MPREb_ySqd5Ci5Dn6|--|
+Two Friends|--|UCMablE9EvsH9UC-PVIxQa0g|--|MPREb_NTm34EKVvoS|--|MPREb_OccfDtfDTPt
+Tungevaag & Raaban|--|UCOUcUrB1Y35xOptlSly2L6Q|--|MPREb_UzoQpJU1QGx|--|MPREb_C2qzwLoDDK8
+Tony Igy|--|UCjW4TPq451IgyqBkDAmSdrw|--|MPREb_epmb461ghtO|--|MPREb_ayH6YEmGSTL
+Tommy Trash|--|UC_R0ijBUTc_lFiYed3k_Vtg|--|MPREb_53lxLBJXWA7|--|MPREb_0D1rGyilKMQ
+Tom Odell|--|UCrP3Rfz32MT-OH9MZh_N9kA|--|MPREb_35o6elUZZ73|--|MPREb_Mx7lxhF4rCt
+KSHMR|--|UCO1CjpSuBGPieW1WK2a9QmA|--|MPREb_PYF7LDWG4E7|--|MPREb_iCshF3D2bXm
+Lindequist|--|UC7Pb_5H7qCmlxJFRi5Kt_zw|--||--|MPREb_lMiTtMDiM2S
+Thomas Hayes|--|UCARmfbX8l-TpAB5ReMhYeew|--|MPREb_mmxbRBzYpQu|--|MPREb_awJ6n9ZsktY
+Nomra|--|UC19beyQEGXw6TxZBcqxtnog|--||--|MPREb_ajHJgwu25Df
+The Weeknd|--|UClYV6hHlupm_S_ObS1W-DYw|--|MPREb_KcbXIS3kBTX|--|MPREb_pjWEEmjqg1L
+The Soundmen|--|UCTOfn9zOmKx-znoi5ZfJXLw|--|MPREb_jR9xXpdEl4b|--|MPREb_UBR7NjIzPc0
+The Killers|--|UCneQ7UWyu9USLDgMya6T7IA|--|MPREb_jOaeVEice9h|--|MPREb_w3yaDcZwP7w
+The Ian Carey Project|--|UCeNjpNcBUeQ4TKPHxREjcoQ|--||--|MPREb_F0GdjnvfoDZ
+The Him|--|UClqNHdU1kQMaCoePgwp8PYg|--||--|MPREb_7KlUGN6Qrdm
+The Aston Shuffle|--|UC5ZkAaXdm8mzx0ShPz2wSfQ|--|MPREb_NEghRbUbesL|--|MPREb_slQ5iBeZKPi
+Tep No|--|UCHp77Kk-q44gWHsXGVfnd_A|--|MPREb_nz9JMySt22P|--|MPREb_gtZReVH9MTf
+Taylor Torrence, Natalie Ann Semkiw|--|UCOjdxqEnYORyDEh94nC2z4g|--|MPREb_2tDMs2bpCNQ|--|MPREb_J1thYgstKls
+Taska Black|--|UCTWyZXBHPemjqocSDzYf0Ng|--|MPREb_tOfyt01Q83U|--|MPREb_9cTrUls8YUn
+T-Pain|--|UCLSSupJwk82DYt6OI-iSh_Q|--|MPREb_EGm8JF6fboP|--|MPREb_xE7FfOdJELR
+Syn Cole|--|UC6xnpevb-8LwUHpdfkY2FNw|--|MPREb_Wbu9xXZCWzw|--|MPREb_TQFy63plveM
+Swanky Tunes|--|UCwXtV-tuXm-CCc495AyZp6w|--|MPREb_weI7UiJ9BwN|--|MPREb_1EWExtGqCsg
+Going Deeper|--|UCIjB16DaZ6A6o9kOxCJLO-g|--|MPREb_sNgMbLNNJwV|--|MPREb_zpn3zmtpCl7
+Summer Was Fun|--|UCmiW9mf0790uYSXjYULWLpA|--|MPREb_ft1jCxp7p5R|--|MPREb_F17cfkUxKIo
+Sultan + Shepard|--|UCU2d6Vg6hp0vJb8K0krR5_g|--|MPREb_KmQMxdMzrqa|--|MPREb_Xa3zIEqQRQa
+Boehm|--|UCH2bQ4tzzVtAAjF3EjDrGCQ|--|MPREb_C3WsMb65JO4|--|MPREb_JIgArK3PCft
+Stephen Walking|--|UCABJTfeANh7s7Vkekb4Avig|--|MPREb_VBkURiSrQIt|--|MPREb_8yFC8vEtjLi
+Tobu|--|UCh6GMTlXgeHnwDHaIQ_ThAA|--|MPREb_sN4ACpU1EYi|--|MPREb_gbPdsiBvd9z
+Steerner|--|UCqBAxIIXcarKCJlYyQZTnww|--||--|MPREb_Fhwu2ei5p6e
+Steam Phunk|--|UCKxPJkAXF8LTb4Q0KrN-CIA|--||--|MPREb_l8mmJHkAVZX
+M. Maggie|--|UCaQSFXNhD3LSpecNRqdzsGA|--|MPREb_PuRbfqZ0DAp|--|MPREb_wjpXdXXpGOG
