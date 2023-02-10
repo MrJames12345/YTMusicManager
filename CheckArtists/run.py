@@ -201,7 +201,7 @@ else:
 # Print final new artists
 print("\n\n= = = = = = = = = = =\n\n")
 if (len(totalNewArtists) > 0):
-    print("New artists:\n")
+    print(f"{len(totalNewArtists)} new artist{'s' if len(totalNewArtists) > 1 else ''}:\n")
     for newArtist in totalNewArtists:
         print("     " + newArtist)
 else:
@@ -210,7 +210,7 @@ print("\n\n= = = = = = = = = = =\n\n")
 time.sleep(1)
 # Print final new singles and albums
 if (len(totalNewSinglesAlbums) > 0):
-    print("New singles and albums:\n")
+    print(f"{len(totalNewSinglesAlbums)} new single{'s' if len(totalNewSinglesAlbums) > 1 else ''}/album{'s' if len(totalNewSinglesAlbums) > 1 else ''}:\n")
     for newSingleAlbum in totalNewSinglesAlbums:
         print("     " + newSingleAlbum)
 else:
