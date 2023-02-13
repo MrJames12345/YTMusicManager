@@ -12,25 +12,25 @@ api = utils.setup()
 
 # Playlists to add artists from
 playlistsToAddFrom = [
-    # '2014',
-    # '27Club',
-    # 'AfterDark',
-    # 'Ambient',
+    '2014',
+    '27Club',
+    'AfterDark',
+    'Ambient',
     'Calvin',
-    # 'Classics',
-    # 'Ferris',
-    # 'Goodies',
-    # 'Jaaaazz',
-    # 'Jesse',
-    # 'John Wick',
-    # 'Katy',
-    # 'MG',
-    # 'NFS',
-    # 'Orchestra',
-    # 'Playlist 2',
-    # 'Snake',
-    # 'The Doc',
-    # 'z'
+    'Classics',
+    'Ferris',
+    'Goodies',
+    'Jaaaazz',
+    'Jesse',
+    'John Wick',
+    'Katy',
+    'MG',
+    'NFS',
+    'Orchestra',
+    'Playlist 2',
+    'Snake',
+    'The Doc',
+    'z'
 ]
 
 # Get last checked data and backup
@@ -71,8 +71,6 @@ print("\n\n= = = = = = = = = = =\n")
 
 # Setup albums and singles list to add to #ToListen
 albumsSinglesIdList = []
-# Setup abums and singles list to add to #TEMP_CHECK
-tempCheckIdList = []
 # Setup new artists list to save at end
 updatedArtists = []
 
@@ -137,16 +135,13 @@ for artistBrief in artistsToCheck:
             except NameError:
                 singles = []
 
-            # Temp list
-            tempIdList = []
-
             # Add all albums up until last checked album
             for album in albums:
                 if album['browseId'] == lastAlbumId:
                     break
                 else:
                     print("New album: " + album['title'])
-                    tempIdList.append(album['browseId'])
+                    albumsSinglesIdList.append(album['browseId'])
                     totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + album['title'] + " (Album)")
 
             # Add all singles up until last checked album
@@ -155,17 +150,8 @@ for artistBrief in artistsToCheck:
                     break
                 else:
                     print("New single: " + single['title'])
-                    tempIdList.append(single['browseId'])
+                    albumsSinglesIdList.append(single['browseId'])
                     totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + single['title'] + " (Single)")
-
-            # IF temp list has less than 6 items, add to list for #ToListen
-            if len(tempIdList) > 0:
-                if len(tempIdList) <= 5:
-                    albumsSinglesIdList.extend(tempIdList)
-
-                # ELSE too many so probably YTMusic messed order around so add to list for #TEMP_CHECK
-                else:
-                    tempCheckIdList.extend(tempIdList)
 
         # ELSE is new, so just get latest single and album
         else:
@@ -244,34 +230,15 @@ if (len(albumsSinglesIdList) > 0):
         for song in songsList:
             fullBrowseIdList.append(song['videoId'])
     ytMusicPlaylists = api.get_library_playlists(limit=100)
+    print(f"\nTotal songs: {len(fullBrowseIdList)}")
     for ytMusicPlaylist in ytMusicPlaylists:
         if (ytMusicPlaylist['title'] == "#ToListen"):
-            api.add_playlist_items(
-                playlistId=ytMusicPlaylist['playlistId'],
-                videoIds=fullBrowseIdList
-            )
-    print("\n= = = = = = = = = = =\n\n")
-
-
-# Add to #TEMP_CHECK
-if (len(tempCheckIdList) > 0):
-    print('Adding to "#TEMP_CHECK"...\n')
-    fullTempCheckIdList = []
-    for albumSingle in tempCheckIdList:
-        songsList = api.get_album(albumSingle)['tracks']
-        for song in songsList:
-            fullTempCheckIdList.append(song['videoId'])
-    ytMusicPlaylists = api.get_library_playlists(limit=100)
-    tempCheckPlaylistId = None
-    for ytMusicPlaylist in ytMusicPlaylists:
-        if (ytMusicPlaylist['title'] == "#TEMP_CHECK"):
-            tempCheckPlaylistId = ytMusicPlaylist['playlistId']
-    if tempCheckPlaylistId is None:
-        tempCheckPlaylistId = api.create_playlist('#TEMP_CHECK', 'Too many songs came from one artists, so they were chucked here to be checked.')
-    api.add_playlist_items(
-        playlistId=tempCheckPlaylistId,
-        videoIds=fullTempCheckIdList
-    )
+            for i in range(0, len(fullBrowseIdList), 20):
+                tempList = fullBrowseIdList[i:i+20]
+                api.add_playlist_items(
+                    playlistId=ytMusicPlaylist['playlistId'],
+                    videoIds=tempList
+                )
     print("\n= = = = = = = = = = =\n\n")
 
 
