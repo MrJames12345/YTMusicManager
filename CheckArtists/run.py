@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 sys.path.append('../')
 import utils
 import time
@@ -11,25 +12,25 @@ api = utils.setup()
 
 # Playlists to add artists from
 playlistsToAddFrom = [
-    '2014',
-    '27Club',
-    'AfterDark',
-    'Ambient',
+    # '2014',
+    # '27Club',
+    # 'AfterDark',
+    # 'Ambient',
     'Calvin',
-    'Classic',
-    'Ferris',
-    'Goodies',
-    'Jaaaazz',
-    'Jesse',
-    'John Wick',
-    'Katy',
-    'MG',
-    'NFS',
-    'Orchestra',
-    'Playlist 2',
-    'Snake',
-    'The Doc',
-    'z'
+    # 'Classics',
+    # 'Ferris',
+    # 'Goodies',
+    # 'Jaaaazz',
+    # 'Jesse',
+    # 'John Wick',
+    # 'Katy',
+    # 'MG',
+    # 'NFS',
+    # 'Orchestra',
+    # 'Playlist 2',
+    # 'Snake',
+    # 'The Doc',
+    # 'z'
 ]
 
 # Get last checked data and backup
@@ -59,14 +60,19 @@ for playlistBrief in playlistsBrief:
                 # FOR EACH artist in track
                 for artist in track['artists']:
                     # IF artist not in 'artistsToCheck' AND has an id AND not my own uploaded song, add
-                    if artist['id'] not in artistsToCheck and artist['id'] is not None and 'privately_owned_artist' not in artist['id']:
-                        artistsToCheck.append(artist['id'])
+                    if not any(item['id'] == artist['id'] for item in artistsToCheck) and artist['id'] is not None and 'privately_owned_artist' not in artist['id']:
+                        artistsToCheck.append(artist)
+
+# Sort alphabetically by artist name
+artistsToCheck.sort(key=lambda artist: artist['name'])
 
 print(f"\nArtists to check: {len(artistsToCheck)}")
 print("\n\n= = = = = = = = = = =\n")
 
 # Setup albums and singles list to add to #ToListen
 albumsSinglesIdList = []
+# Setup abums and singles list to add to #TEMP_CHECK
+tempCheckIdList = []
 # Setup new artists list to save at end
 updatedArtists = []
 
@@ -76,7 +82,7 @@ totalNewSinglesAlbums = []
 totalArtistErrors = []
 
 # For each artist
-for artistId in artistsToCheck:
+for artistBrief in artistsToCheck:
 
     try:
         # Reset
@@ -93,9 +99,11 @@ for artistId in artistsToCheck:
 
         print("")
 
+        print(f"Checking: {artistBrief['name']}")
+
         # Get last checked record for artist
         for record in lastCheckedList:
-            if record is not None and record.split('|--|')[1] == artistId:
+            if record is not None and record.split('|--|')[1] == artistBrief['id']:
                 artistLastChecked = record
                 break
         
@@ -103,15 +111,11 @@ for artistId in artistsToCheck:
         if artistLastChecked is not None:
 
             artistElements = artistLastChecked.split('|--|')
-            artistName = artistElements[0]
             lastAlbumId = artistElements[2]
             lastSingleId = artistElements[3]
-            print(f"Checking: {artistName}")
-            # print(f"artistId: {artistId}")
-            # print(f"lastAlbumId: {lastAlbumId}")
-            # print(f"lastSingleId: {lastSingleId}")
+
             # Get artist
-            artist = api.get_artist(artistId)
+            artist = api.get_artist(artistBrief['id'])
 
             # Get all albums (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'albums' in artist:
@@ -133,31 +137,44 @@ for artistId in artistsToCheck:
             except NameError:
                 singles = []
 
-            # Make list of all albums up until last checked album
+            # Temp list
+            tempIdList = []
+
+            # Add all albums up until last checked album
             for album in albums:
                 if album['browseId'] == lastAlbumId:
                     break
                 else:
                     print("New album: " + album['title'])
-                    albumsSinglesIdList.append(album['browseId'])
-                    totalNewSinglesAlbums.append(artist['name'] + ' - ' + album['title'] + " (Album)")
+                    tempIdList.append(album['browseId'])
+                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + album['title'] + " (Album)")
 
-            # Make list of all singles up until last checked album
+            # Add all singles up until last checked album
             for single in singles:
                 if single['browseId'] == lastSingleId:
                     break
                 else:
                     print("New single: " + single['title'])
-                    albumsSinglesIdList.append(single['browseId'])
-                    totalNewSinglesAlbums.append(artist['name'] + ' - ' + single['title'] + " (Single)")
+                    tempIdList.append(single['browseId'])
+                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + single['title'] + " (Single)")
+
+            # IF temp list has less than 6 items, add to list for #ToListen
+            if len(tempIdList) > 0:
+                if len(tempIdList) <= 5:
+                    albumsSinglesIdList.extend(tempIdList)
+
+                # ELSE too many so probably YTMusic messed order around so add to list for #TEMP_CHECK
+                else:
+                    tempCheckIdList.extend(tempIdList)
 
         # ELSE is new, so just get latest single and album
         else:
 
+            print("New Artist!")
+
             # Get artist
-            artist = api.get_artist(artistId)
-            print("New artist: " + artist['name'])
-            totalNewArtists.append(artist['name'])
+            artist = api.get_artist(artistBrief['id'])
+            totalNewArtists.append(artistBrief['name'])
             
             # Get all albums (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'albums' in artist:
@@ -182,11 +199,10 @@ for artistId in artistsToCheck:
         # Add artist to updated artists list
         albumText = "" if len(albums) == 0 else albums[0]['browseId']
         singleText = "" if len(singles) == 0 else singles[0]['browseId']
-        updatedArtists.append(artist['name'] + "|--|" + artistId + "|--|" + albumText + "|--|" + singleText)
+        updatedArtists.append(artistBrief['name'] + "|--|" + artistBrief['id'] + "|--|" + albumText + "|--|" + singleText)
 
     except:
-        errorArtist = "" if artist is None else f", {artist['name']}"
-        totalArtistErrors.append(f"{artistId}{errorArtist}")
+        totalArtistErrors.append(f"{artistBrief['id']}{artistBrief['name']}")
         print("Error occured. Skipping this artist.")
 
 
@@ -220,7 +236,7 @@ time.sleep(1)
 
 
 # Add to #ToListen
-if (len(totalNewSinglesAlbums) > 0):
+if (len(albumsSinglesIdList) > 0):
     print('Adding all to "#ToListen"...\n')
     fullBrowseIdList = []
     for albumSingle in albumsSinglesIdList:
@@ -234,6 +250,28 @@ if (len(totalNewSinglesAlbums) > 0):
                 playlistId=ytMusicPlaylist['playlistId'],
                 videoIds=fullBrowseIdList
             )
+    print("\n= = = = = = = = = = =\n\n")
+
+
+# Add to #TEMP_CHECK
+if (len(tempCheckIdList) > 0):
+    print('Adding to "#TEMP_CHECK"...\n')
+    fullTempCheckIdList = []
+    for albumSingle in tempCheckIdList:
+        songsList = api.get_album(albumSingle)['tracks']
+        for song in songsList:
+            fullTempCheckIdList.append(song['videoId'])
+    ytMusicPlaylists = api.get_library_playlists(limit=100)
+    tempCheckPlaylistId = None
+    for ytMusicPlaylist in ytMusicPlaylists:
+        if (ytMusicPlaylist['title'] == "#TEMP_CHECK"):
+            tempCheckPlaylistId = ytMusicPlaylist['playlistId']
+    if tempCheckPlaylistId is None:
+        tempCheckPlaylistId = api.create_playlist('#TEMP_CHECK', 'Too many songs came from one artists, so they were chucked here to be checked.')
+    api.add_playlist_items(
+        playlistId=tempCheckPlaylistId,
+        videoIds=fullTempCheckIdList
+    )
     print("\n= = = = = = = = = = =\n\n")
 
 
