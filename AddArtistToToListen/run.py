@@ -73,7 +73,8 @@ for ytMusicPlaylist in ytMusicPlaylists:
     if (ytMusicPlaylist['title'] == "#ToListen"):
         api.add_playlist_items(
             playlistId=ytMusicPlaylist['playlistId'],
-            videoIds=fullBrowseIdList
+            videoIds=fullBrowseIdList,
+            duplicates=True
         )
 
 
