@@ -204,7 +204,7 @@ for artistBrief in artistsToCheck:
         updatedArtists.append(artistBrief['name'] + "|--|" + artistBrief['id'] + "|--|" + albumText + "|--|" + singleText)
 
     except:
-        totalArtistErrors.append(f"{artistBrief['id']}{artistBrief['name']}")
+        totalArtistErrors.append(f"{artistBrief['id']} {artistBrief['name']}")
         print("Error occured. Skipping this artist.")
 
 
