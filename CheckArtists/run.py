@@ -92,6 +92,8 @@ for artistBrief in artistsToCheck:
         lastSingleId = None
         albums = []
         singles = []
+        newAlbums = []
+        newSingles = []
         albumText = None
         singleText = None
 
@@ -135,23 +137,37 @@ for artistBrief in artistsToCheck:
             except NameError:
                 singles = []
 
-            # Add all albums up until last checked album
+            # Get list of all albums up until last checked album
             for album in albums:
                 if album['browseId'] == lastAlbumId:
                     break
                 else:
-                    print("New album: " + album['title'])
-                    albumsSinglesIdList.append(album['browseId'])
-                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + album['title'] + " (Album)")
+                    newAlbums.append(album)
 
-            # Add all singles up until last checked album
+            # Get list of all singles up until last checked album
             for single in singles:
                 if single['browseId'] == lastSingleId:
                     break
                 else:
-                    print("New single: " + single['title'])
-                    albumsSinglesIdList.append(single['browseId'])
-                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + single['title'] + " (Single)")
+                    newSingles.append(single)
+
+            # Add new albums, unless there are too many which means ytmusic changed something that fucked me over
+            if (len(newAlbums) > 0 and len(newAlbums) < 5):
+                for newAlbum in newAlbums:
+                    print("New album: " + newAlbum['title'])
+                    albumsSinglesIdList.append(newAlbum['browseId'])
+                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + newAlbum['title'] + " (Album)")
+            elif (len(newAlbums) > 5):
+                print("Too many albums!\nSkipping these albums and resetting this artist's last album id.")
+
+            # Add new singles, unless there are too many which means ytmusic changed something that fucked me over
+            if (len(newSingles) > 0 and len(newSingles) < 5):
+                for newSingle in newSingles:
+                    print("New single: " + newSingle['title'])
+                    albumsSinglesIdList.append(newSingle['browseId'])
+                    totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + newSingle['title'] + " (Single)")
+            elif (len(newSingles) > 5):
+                print("Too many singles!\nSkipping these singles and resetting this artist's last single id.")
 
         # ELSE is new, so just get latest single and album
         else:
@@ -230,15 +246,13 @@ if (len(albumsSinglesIdList) > 0):
         for song in songsList:
             fullBrowseIdList.append(song['videoId'])
     ytMusicPlaylists = api.get_library_playlists(limit=100)
-    print(f"\nTotal songs: {len(fullBrowseIdList)}")
     for ytMusicPlaylist in ytMusicPlaylists:
         if (ytMusicPlaylist['title'] == "#ToListen"):
-            for i in range(0, len(fullBrowseIdList), 20):
-                tempList = fullBrowseIdList[i:i+20]
-                api.add_playlist_items(
-                    playlistId=ytMusicPlaylist['playlistId'],
-                    videoIds=tempList
-                )
+            api.add_playlist_items(
+                playlistId=ytMusicPlaylist['playlistId'],
+                videoIds=fullBrowseIdList,
+                duplicates=True
+            )
     print("\n= = = = = = = = = = =\n\n")
 
 
