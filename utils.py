@@ -5,4 +5,4 @@ from ytmusicapi import YTMusic
 # = = = = = = = =
 
 def setup():
-    return YTMusic("C:/YTMusicManagerAuth/headers_auth.json");
+    return YTMusic('C:/auth/YTMusicManager/ytMusicApiHeaders.json');

@@ -1,14 +1,26 @@
 import os
 import sys
-import json
 sys.path.append('../')
 import utils
 import time
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
 
-stopwatchStart = time.perf_counter()
 
 # Setup
-api = utils.setup()
+stopwatchStart = time.perf_counter()
+ytMusicApi = utils.setup()
+firebase_admin.initialize_app( credentials.Certificate('C:/auth/YTMusicManager/ytMusicFirebaseKey.json') )
+db = firestore.client()
+
+lastCheckCollection = db.collection(u'LastChecked')
+lastCheckCollection.document('1927').set({
+    u'name': u'1927',
+    u'artistId': u'UCA0LoY9t1YXDH_hybrSkjPw',
+    u'lastCheckedAlbum': 'MPREb_w2szDYIS63U',
+    u'lastCheckedSingle': 'MPREb_uEYtkpJZguh'
+})
 
 # Playlists to add artists from
 playlistsToAddFrom = [
@@ -36,23 +48,23 @@ playlistsToAddFrom = [
 # Get last checked data and backup
 with open('data.txt', encoding='utf-8') as f:
     lastCheckedList = f.read().splitlines()
-i = 0
-while os.path.exists(f"backups/data_backup_{i}.txt"):
-    i += 1
-f = open(f"backups/data_backup_{i}.txt", 'w', encoding='utf-8')
-for record in lastCheckedList:
-    f.write(record + "\n")
-f.close()
+# i = 0
+# while os.path.exists(f"backups/data_backup_{i}.txt"):
+#     i += 1
+# f = open(f"backups/data_backup_{i}.txt", 'w', encoding='utf-8')
+# for record in lastCheckedList:
+#     f.write(record + "\n")
+# f.close()
 
 # Get all artists from my playlists
 artistsToCheck = []
 print("\nGetting artists from:\n")
-playlistsBrief = api.get_library_playlists(limit=100)
+playlistsBrief = ytMusicApi.get_library_playlists(limit=100)
 for playlistBrief in playlistsBrief:
     # IF is a playlist to check
     if playlistBrief['title'] in playlistsToAddFrom:
         print("     - " + playlistBrief['title'])
-        playlist = api.get_playlist(playlistBrief['playlistId'], limit=None)
+        playlist = ytMusicApi.get_playlist(playlistBrief['playlistId'], limit=None)
         # FOR EACH track
         for track in playlist['tracks']:
             # IF track is an official song
@@ -87,7 +99,6 @@ for artistBrief in artistsToCheck:
         artist = None
         artistLastChecked = None
         artistElements = None
-        artistName = None
         lastAlbumId = None
         lastSingleId = None
         albums = []
@@ -115,12 +126,12 @@ for artistBrief in artistsToCheck:
             lastSingleId = artistElements[3]
 
             # Get artist
-            artist = api.get_artist(artistBrief['id'])
+            artist = ytMusicApi.get_artist(artistBrief['id'])
 
             # Get all albums (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'albums' in artist:
                 if 'params' in artist['albums']:
-                    albums = api.get_artist_albums(artist['channelId'], artist['albums']['params'])
+                    albums = ytMusicApi.get_artist_albums(artist['channelId'], artist['albums']['params'])
                 else:
                     albums = artist['albums']['results']
             try: albums
@@ -130,7 +141,7 @@ for artistBrief in artistsToCheck:
             # Get all singles (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'singles' in artist:
                 if 'params' in artist['singles']:
-                    singles = api.get_artist_albums(artist['channelId'], artist['singles']['params'])
+                    singles = ytMusicApi.get_artist_albums(artist['channelId'], artist['singles']['params'])
                 else:
                     singles = artist['singles']['results']
             try: singles
@@ -175,13 +186,13 @@ for artistBrief in artistsToCheck:
             print("New Artist!")
 
             # Get artist
-            artist = api.get_artist(artistBrief['id'])
+            artist = ytMusicApi.get_artist(artistBrief['id'])
             totalNewArtists.append(artistBrief['name'])
             
             # Get all albums (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'albums' in artist:
                 if 'params' in artist['albums']:
-                    albums = api.get_artist_albums(artist['channelId'], artist['albums']['params'])
+                    albums = ytMusicApi.get_artist_albums(artist['channelId'], artist['albums']['params'])
                 else:
                     albums = artist['albums']['results']
             try: albums
@@ -191,7 +202,7 @@ for artistBrief in artistsToCheck:
             # Get all singles (IF 'params' in 'singles', means more than just on first page, so get rest, ELSE use list already retrieved)
             if 'singles' in artist:
                 if 'params' in artist['singles']:
-                    singles = api.get_artist_albums(artist['channelId'], artist['singles']['params'])
+                    singles = ytMusicApi.get_artist_albums(artist['channelId'], artist['singles']['params'])
                 else:
                     singles = artist['singles']['results']
             try: singles
@@ -242,13 +253,13 @@ if (len(albumsSinglesIdList) > 0):
     print('Adding all to "#ToListen"...\n')
     fullBrowseIdList = []
     for albumSingle in albumsSinglesIdList:
-        songsList = api.get_album(albumSingle)['tracks']
+        songsList = ytMusicApi.get_album(albumSingle)['tracks']
         for song in songsList:
             fullBrowseIdList.append(song['videoId'])
-    ytMusicPlaylists = api.get_library_playlists(limit=100)
+    ytMusicPlaylists = ytMusicApi.get_library_playlists(limit=100)
     for ytMusicPlaylist in ytMusicPlaylists:
         if (ytMusicPlaylist['title'] == "#ToListen"):
-            api.add_playlist_items(
+            ytMusicApi.add_playlist_items(
                 playlistId=ytMusicPlaylist['playlistId'],
                 videoIds=fullBrowseIdList,
                 duplicates=True
