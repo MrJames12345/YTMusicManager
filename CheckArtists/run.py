@@ -169,7 +169,7 @@ for artistBrief in artistsToCheck:
             # Add to 'updatedArtists' to update LastChecked doc later using id
             if (len(newAlbums) > 0 or len(newSingles) > 0):
                 artistLastCheckedDoc._data['lastCheckedAlbum'] = "" if len(albums) == 0 else albums[0]['browseId']
-                artistLastCheckedDoc._data['lastCheckedSingle'] = "" if len(singles) == 0 else singles[0]['browseId'],
+                artistLastCheckedDoc._data['lastCheckedSingle'] = "" if len(singles) == 0 else singles[0]['browseId']
                 updatedArtists.append(artistLastCheckedDoc)
 
         # ELSE is new, so just get latest single and album
@@ -211,8 +211,8 @@ for artistBrief in artistsToCheck:
             }
             updatedArtists.append(newLastCheckedDoc)
 
-    except:
-        totalArtistErrors.append(f"{artistBrief['id']} {artistBrief['name']}")
+    except Exception as error:
+        totalArtistErrors.append(f"{artistBrief['id']} {artistBrief['name']}: {error.message}")
         print("Error occured. Skipping this artist.")
 
 
@@ -265,6 +265,7 @@ if (len(albumsSinglesIdList) > 0):
 
 
 # Update LastChecked in firestore
+print('Updating database...\n')
 for updatedArtist in updatedArtists:
     # IF id exists on 'updatedArtist' then update existing doc
     try:
@@ -280,6 +281,7 @@ for updatedArtist in updatedArtists:
             'lastCheckedAlbum': updatedArtist['lastCheckedAlbum'],
             'lastCheckedSingle': updatedArtist['lastCheckedSingle']
         })
+print("\n= = = = = = = = = = =\n\n")
 
 stopwatchEnd = time.perf_counter()
 stopwatchTotalString = time.strftime('%M:%S', time.gmtime(stopwatchEnd - stopwatchStart))
