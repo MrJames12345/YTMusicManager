@@ -1,16 +1,15 @@
-import sys
-sys.path.append('../')
-import utils;
 import time;
+from ytmusicapi import YTMusic
 
 
 # Setup
-api = utils.setup();
+stopwatchStart = time.perf_counter()
+ytMusicApi = YTMusic('C:/auth/YTMusicManager/ytMusicApiHeaders.json')
 
 
 # Get last song from history
 outputString = '';
-lastSong = api.get_history()[0];
+lastSong = ytMusicApi.get_history()[0];
 print('Song: "' + lastSong['title'] + '"');
 
 
@@ -22,7 +21,7 @@ addToPlaylists = [playlist.replace('\n', '') for playlist in addToPlaylists]
 
 
 # Get YT Music playlists
-ytMusicPlaylists = api.get_library_playlists(limit=100);
+ytMusicPlaylists = ytMusicApi.get_library_playlists(limit=100);
 
 
 # Add last song to each selected playlist
@@ -30,7 +29,7 @@ for addToPlaylist in addToPlaylists:
    for ytMusicPlaylist in ytMusicPlaylists:
       if (ytMusicPlaylist['title'] == addToPlaylist):
          print('Adding to "' + addToPlaylist + '"');
-         api.add_playlist_items(
+         ytMusicApi.add_playlist_items(
             playlistId=ytMusicPlaylist['playlistId'],
             videoIds=[lastSong['videoId']]
          );

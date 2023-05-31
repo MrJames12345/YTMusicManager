@@ -1,5 +1,3 @@
-import os
-import sys
 import time
 from ytmusicapi import YTMusic
 import firebase_admin
@@ -15,38 +13,26 @@ db = firestore.client()
 
 # Playlists to add artists from
 playlistsToAddFrom = [
-    # '2014',
-    # '27Club',
+    '2014',
+    '27Club',
     'AfterDark',
-    # 'Ambient',
-    # 'Calvin',
-    # 'Classics',
-    # 'Ferris',
-    # 'Goodies',
-    # 'Jaaaazz',
-    # 'Jesse',
-    # 'John Wick',
-    # 'Katy',
-    # 'MG',
-    # 'NFS',
-    # 'Orchestra',
-    # 'Playlist 2',
-    # 'Snake',
-    # 'The Doc',
-    # 'z'
+    'Ambient',
+    'Calvin',
+    'Classics',
+    'Ferris',
+    'Goodies',
+    'Jaaaazz',
+    'Jesse',
+    'John Wick',
+    'Katy',
+    'MG',
+    'NFS',
+    'Orchestra',
+    'Playlist 2',
+    'Snake',
+    'The Doc',
+    'z'
 ]
-
-# Get last checked data and backup
-lastCheckedCollection = db.collection('LastChecked')
-lastCheckedDocs = lastCheckedCollection.get()
-i = 0
-while os.path.exists(f"backups/data_backup_{i}.txt"):
-    i += 1
-f = open(f"backups/data_backup_{i}.txt", 'w', encoding='utf-8')
-for doc in lastCheckedDocs:
-    docData = doc._data
-    f.write(f"{docData['name']}|--|{docData['artistId']}|--|{docData['lastCheckedAlbum']}|--|{docData['lastCheckedSingle']}" + "\n")
-f.close()
 
 # Get all artists from my playlists
 artistsToCheck = []
@@ -73,6 +59,10 @@ artistsToCheck.sort(key=lambda artist: artist['name'])
 print(f"\nArtists to check: {len(artistsToCheck)}")
 print("\n\n= = = = = = = = = = =\n")
 
+# Get checked data
+checkedCollection = db.collection('LastChecked')
+checkedDocs = checkedCollection.get()
+
 # Setup albums and singles list to add to #ToListen
 albumsSinglesIdList = []
 # Setup new artist docs list to save at end
@@ -89,7 +79,7 @@ for artistBrief in artistsToCheck:
     try:
         # Reset
         artist = None
-        artistLastCheckedDoc = None
+        artistCheckedDoc = None
         artistElements = None
         albums = []
         singles = []
@@ -102,14 +92,14 @@ for artistBrief in artistsToCheck:
 
         print(f"Checking: {artistBrief['name']}")
 
-        # Get last checked record for artist
-        for record in lastCheckedDocs:
+        # Get checked record for artist
+        for record in checkedDocs:
             if record is not None and record._data['artistId'] == artistBrief['id']:
-                artistLastCheckedDoc = record
+                artistCheckedDoc = record
                 break
         
         # IF found record, check artist
-        if artistLastCheckedDoc is not None:
+        if artistCheckedDoc is not None:
 
             # Get artist
             artist = ytMusicApi.get_artist(artistBrief['id'])
@@ -134,18 +124,14 @@ for artistBrief in artistsToCheck:
             except NameError:
                 singles = []
 
-            # Get list of all albums up until last checked album
+            # Find new albums
             for album in albums:
-                if album['browseId'] == artistLastCheckedDoc._data['lastCheckedAlbum']:
-                    break
-                else:
+                if album['browseId'] not in artistCheckedDoc._data['checkedAlbums']:
                     newAlbums.append(album)
 
-            # Get list of all singles up until last checked album
+            # Find new singles
             for single in singles:
-                if single['browseId'] == artistLastCheckedDoc._data['lastCheckedSingle']:
-                    break
-                else:
+                if single['browseId'] not in artistCheckedDoc._data['checkedSingles']:
                     newSingles.append(single)
 
             # Add new albums, unless there are too many which means ytmusic changed something that fucked me over
@@ -155,7 +141,7 @@ for artistBrief in artistsToCheck:
                     albumsSinglesIdList.append(newAlbum['browseId'])
                     totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + newAlbum['title'] + " (Album)")
             elif (len(newAlbums) > 5):
-                print("Too many albums!\nSkipping these albums and resetting this artist's last album id.")
+                print("Too many albums!\nSkipping these albums and resetting this artist's checked albums.")
 
             # Add new singles, unless there are too many which means ytmusic changed something that fucked me over
             if (len(newSingles) > 0 and len(newSingles) < 5):
@@ -164,13 +150,13 @@ for artistBrief in artistsToCheck:
                     albumsSinglesIdList.append(newSingle['browseId'])
                     totalNewSinglesAlbums.append(artistBrief['name'] + ' - ' + newSingle['title'] + " (Single)")
             elif (len(newSingles) > 5):
-                print("Too many singles!\nSkipping these singles and resetting this artist's last single id.")
+                print("Too many singles!\nSkipping these singles and resetting this artist's checked singles.")
 
-            # Add to 'updatedArtists' to update LastChecked doc later using id
+            # Add to 'updatedArtists' to update Checked doc later using id
             if (len(newAlbums) > 0 or len(newSingles) > 0):
-                artistLastCheckedDoc._data['lastCheckedAlbum'] = "" if len(albums) == 0 else albums[0]['browseId']
-                artistLastCheckedDoc._data['lastCheckedSingle'] = "" if len(singles) == 0 else singles[0]['browseId']
-                updatedArtists.append(artistLastCheckedDoc)
+                artistCheckedDoc._data['checkedAlbums'] = [album['browseId'] for album in albums]
+                artistCheckedDoc._data['checkedSingles'] = [single['browseId'] for single in singles]
+                updatedArtists.append(artistCheckedDoc)
 
         # ELSE is new, so just get latest single and album
         else:
@@ -202,17 +188,17 @@ for artistBrief in artistsToCheck:
                 singles = []
 
             # Add to 'updatedArtists' to later create new doc in firestore
-            newLastCheckedDoc = {
+            newCheckedDoc = {
                 "new": True,
                 "artistId": artistBrief['id'],
                 "name": artistBrief['name'],
-                "lastCheckedAlbum": "" if len(albums) == 0 else albums[0]['browseId'],
-                "lastCheckedSingle": "" if len(singles) == 0 else singles[0]['browseId']
+                "checkedAlbums": [album['browseId'] for album in albums],
+                "checkedSingles": [single['browseId'] for single in singles]
             }
-            updatedArtists.append(newLastCheckedDoc)
+            updatedArtists.append(newCheckedDoc)
 
     except Exception as error:
-        totalArtistErrors.append(f"{artistBrief['id']} {artistBrief['name']}: {error.message}")
+        totalArtistErrors.append(f"{artistBrief['id']} {artistBrief['name']}")
         print("Error occured. Skipping this artist.")
 
 
@@ -264,22 +250,22 @@ if (len(albumsSinglesIdList) > 0):
     print("\n= = = = = = = = = = =\n\n")
 
 
-# Update LastChecked in firestore
+# Update Checked in firestore
 print('Updating database...\n')
 for updatedArtist in updatedArtists:
     # IF id exists on 'updatedArtist' then update existing doc
     try:
-        lastCheckedCollection.document(updatedArtist.id).update({
-            'lastCheckedAlbum': updatedArtist._data['lastCheckedAlbum'],
-            'lastCheckedSingle': updatedArtist._data['lastCheckedSingle']
+        checkedCollection.document(updatedArtist.id).update({
+            'checkedAlbums': updatedArtist._data['checkedAlbums'],
+            'checkedSingles': updatedArtist._data['checkedSingles']
         })
     # ELSE is new, so create new doc
     except:
-        lastCheckedCollection.document().set({
+        checkedCollection.document().set({
             'name': updatedArtist['name'],
             'artistId': updatedArtist['artistId'],
-            'lastCheckedAlbum': updatedArtist['lastCheckedAlbum'],
-            'lastCheckedSingle': updatedArtist['lastCheckedSingle']
+            'checkedAlbums': updatedArtist['checkedAlbums'],
+            'checkedSingles': updatedArtist['checkedSingles']
         })
 print("\n= = = = = = = = = = =\n\n")
 
